@@ -67,12 +67,12 @@ Frameworks and Tools:
 </br>
 <!-- 掘金 -->
 <a href="https://juejin.cn/user/4476867080633319" target="_blank"> 
-<img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-YuZhangWang-blue">
+<img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-YuZhangW%23FC5531ang-%231E80FF">
 </a>
 </br>
 <!-- 知乎 -->
 <a href="https://www.zhihu.com/people/sha-li-sha-qi-de-qing-mang" target="_blank"> 
-<img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-YuZhangWang-blue">
+<img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-YuZhangW%23FC5531ang-%230066FF">
 </a>
 </br>
 <!-- Github -->

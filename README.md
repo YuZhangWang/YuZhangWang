@@ -82,22 +82,22 @@ Frameworks and Tools:
 </br>
 <!-- Gitee -->
 <a href="https://gitee.com/YuZhangWang233" target="_blank"> 
-<img src="https://img.shields.io/badge/Gitee-YuZhangWang-red">
+<img src="https://img.shields.io/badge/Gitee-YuZhangWang-%23C71D23">
 </a>
 </br>
 <!-- LeetCode -->
 <a href="https://leetcode-cn.com/u/yuzhangwang/" target="_blank"> 
-<img src="https://img.shields.io/badge/LeetCode-YuZhangWang-orange">
+<img src="https://img.shields.io/badge/LeetCode-YuZhangWang-%23FFA116e">
 </a>
 </br>
 <!-- bilibili -->
 <a href="https://space.bilibili.com/19474542" target="_blank"> 
-<img src="https://img.shields.io/badge/bilibili-YuZhangWang-ff69b4">
+<img src="https://img.shields.io/badge/bilibili-YuZhangWang-%23FB7299">
 </a>
 </br>
 <!-- QQ -->
 <a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/qrcode_1615295622746.jpg" target="_blank"> 
-<img src="https://img.shields.io/badge/QQ-YuZhangWang-informational">
+<img src="https://img.shields.io/badge/QQ-YuZhangWang-%2350BCFE">
 </a>
 </br>
 <!-- 微信 -->

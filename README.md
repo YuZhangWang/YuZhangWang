@@ -1,6 +1,6 @@
 <h2 align="center">👋Thank You For Your Visit</h2>
 <div align="center">
-<img align='center' src="https://profile-counter.glitch.me/YuZhangWang/count.svg" alt="访客数量">
+<img src="https://profile-counter.glitch.me/YuZhangWang/count.svg" alt="访客数量">
 </div>
 
 ## 🤵 About Me

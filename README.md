@@ -1,5 +1,5 @@
-<h2 align="center">👋Thank You For Your Visit</h2>
-<center><img src="https://profile-counter.glitch.me/YuZhangWang/count.svg" alt="访客数量"/></center>
+<h2 align="center">👋Thank You For Your Visit</h2> <br/>
+<img align="center" src="https://profile-counter.glitch.me/YuZhangWang/count.svg" alt="访客数量"/>
 
 ## 🤵 About Me
 - YuZhangWang(豫章望),无名之辈,一个刚上路的极客和程序员。  

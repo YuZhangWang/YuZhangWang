@@ -60,7 +60,7 @@ Frameworks and Tools:
 
 <!-- 各种平台联系方式 -->
 ## 📬 Get In Touch
-<a href="https://blog.csdn.net/qq_43616274" target="_blank"> 
+- <a href="https://blog.csdn.net/qq_43616274" target="_blank"> 
 <img src="https://img.shields.io/badge/CSDN-YuZhangWang-orange">
 </a>
 

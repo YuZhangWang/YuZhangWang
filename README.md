@@ -40,7 +40,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/YuZhangWang)
 ![GitHub User's stars](https://img.shields.io/github/stars/YuZhangWang)
-![isitors](https://visitor-badge.glitch.me/badge?page_id=YuZhangWang.YuZhangWang)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=YuZhangWang.YuZhangWang)
 
 ## 📬 Get In Touch
 - CSDN:[YuZhangWang](https://blog.csdn.net/qq_43616274) 

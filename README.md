@@ -25,7 +25,7 @@
 - 微信:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/mmqrcode1615295634051.png)  
 - 酷安:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/IMG_20210309_211618.png)  
 - 微博:[YuZhangWang](https://weibo.com/u/5603095987)  
-- - 网易云:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/Screenshot_20210309-211644__01.jpg)  
+- 网易云:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/Screenshot_20210309-211644__01.jpg)  
 
 ![YuZhangWang's github stats](https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true) 
 ![YuZhangWang's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YuZhangWang&show_icons=true) 

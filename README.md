@@ -6,7 +6,9 @@
 
 <!-- 关于我的一些生活信息 -->
 ## 🤵 About Me
-<img align="center" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210822063237.gif" width=45%/> 
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210822063237.gif" width=45%/> 
+</div>
 
 - YuZhangWang(豫章望),无名之辈,一个刚上路的极客和程序员  
 - 励志成为一名算法工程师,研究深度学习、机器学习,达到算法工程落地的要求,同时前端后端掌握一些内容

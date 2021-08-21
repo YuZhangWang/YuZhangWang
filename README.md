@@ -20,28 +20,20 @@
 
 ## 🏆 Github Status
 [![YuZhangWang's contribution graph as a Game of Life](https://github4life.herokuapp.com/YuZhangWang.gif)](https://github4life.herokuapp.com/YuZhangWang)
-
-<!-- 
 <a href="">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=YuZhangWang"/>
     </p>
 </a>
--->
 
-<!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
-<!-- <a align="center" href="">  -->
+My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos
+<a align="center" href="">
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true" alt="my github stats" width="420"/>&nbsp;
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact" alt="languages" height="165"> -->
 </p>
-
-
+    
 ![YuZhangWang's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YuZhangWang&show_icons=true) 
-<!--
-![YuZhangWang's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YuZhangWang&show_icons=true&layout=compact)
--->
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
 

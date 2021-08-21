@@ -74,8 +74,12 @@ Frameworks and Tools:
 <a href="https://www.zhihu.com/people/sha-li-sha-qi-de-qing-mang" target="_blank"> 
 <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-YuZhangWang-blue">
 </a>
+</br>
+<!-- Github -->
+<a href="https://github.com/YuZhangWang" target="_blank"> 
+<img src="https://img.shields.io/badge/Github-YuZhangWang-black">
+</a>
 
-- 知乎: [YuzhangWang](https://www.zhihu.com/people/sha-li-sha-qi-de-qing-mang) 
 - Github:[YuZhangWang](https://github.com/YuZhangWang)  
 - Gitee:[YuZhangWang](https://gitee.com/YuZhangWang233) 
 - LeetCode:[YuZhangWang](https://leetcode-cn.com/u/yuzhangwang/)  

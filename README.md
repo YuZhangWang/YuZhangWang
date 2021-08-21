@@ -24,9 +24,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true" alt="my github stats" width="420"/>&nbsp;
 </div>
 
-<div align="right">
 ![YuZhangWang's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YuZhangWang&show_icons=true) 
-</div>
     
 </div>
     

@@ -48,7 +48,7 @@ Frameworks and Tools:
 
 ![GitHub followers](https://img.shields.io/github/followers/YuZhangWang)
 ![GitHub User's stars](https://img.shields.io/github/stars/YuZhangWang)
-![isitors](https://visitor-badge.glitch.me/badge?page_id=YuZhangWang.YuZhangWang)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yuzhangwang.yuzhangwang)
 
 ## 📬 Get In Touch
 - CSDN:[YuZhangWang](https://blog.csdn.net/qq_43616274) 

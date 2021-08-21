@@ -38,6 +38,10 @@
 <!-- Github仓库内编程语言使用情况统计 -->
 ![YuZhangWang's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YuZhangWang&show_icons=true) 
   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  
 <!-- 常用的编程语言 -->
 Languages:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>

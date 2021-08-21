@@ -29,11 +29,15 @@
   
  Languages:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" /></code>
 
 ![GitHub followers](https://img.shields.io/github/followers/YuZhangWang)
 ![GitHub User's stars](https://img.shields.io/github/stars/YuZhangWang)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YuZhangWang.YuZhangWang)
+![isitors](https://visitor-badge.glitch.me/badge?page_id=YuZhangWang.YuZhangWang)
 
 ## 📬 Get In Touch
 - CSDN:[YuZhangWang](https://blog.csdn.net/qq_43616274) 

@@ -94,10 +94,18 @@ Frameworks and Tools:
 <a href="https://space.bilibili.com/19474542" target="_blank"> 
 <img src="https://img.shields.io/badge/bilibili-YuZhangWang-ff69b4">
 </a>
+</br>
+<!-- QQ -->
+<a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/qrcode_1615295622746.jpg" target="_blank"> 
+<img src="https://img.shields.io/badge/QQ-YuZhangWang-informational">
+</a>
+</br>
+<!-- 微信 -->
+<a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/mmqrcode1615295634051.png" target="_blank"> 
+<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-YuZhangWang-success">
+</a>
 
-- bilibili: [YuzhangWang](https://space.bilibili.com/19474542)  
-- QQ:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/qrcode_1615295622746.jpg)  
-- 微信:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/mmqrcode1615295634051.png)  
+ 
 - 酷安:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/IMG_20210309_211618.png)  
 - 微博:[YuZhangWang](https://weibo.com/u/5603095987)  
 - 网易云:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/Screenshot_20210309-211644__01.jpg)  

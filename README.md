@@ -107,17 +107,17 @@ Frameworks and Tools:
 </br>
 <!-- 酷安 -->
 <a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/IMG_20210309_211618.png" target="_blank"> 
-<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-YuZhangWang-success">
+<img src="https://img.shields.io/badge/%E9%85%B7%E5%AE%89-YuZhangWang-green">
 </a>
 </br>
 <!-- 微博 -->
 <a href="https://weibo.com/u/5603095987" target="_blank"> 
-<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-YuZhangWang-success">
+<img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-YuZhangWang-critical">
 </a>
 </br>
 <!-- 网易云 -->
 <a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/Screenshot_20210309-211644__01.jpg" target="_blank"> 
-<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-YuZhangWang-success">
+<img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91-YuZhangWang-red">
 </a>
 
 <!-- 请我喝杯柠檬红茶叭 -->

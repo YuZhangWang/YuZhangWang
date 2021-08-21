@@ -112,7 +112,7 @@ Frameworks and Tools:
 </br>
 <!-- 微博 -->
 <a href="https://weibo.com/u/5603095987" target="_blank"> 
-<img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-YuZhangWang-%23EB161A">
+<img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-YuZhangWang-%23FAD441">
 </a>
 </br>
 <!-- 网易云 -->

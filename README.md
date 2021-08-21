@@ -28,7 +28,7 @@
 
 <!-- Github状态 -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=dark" alt="my github stats" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=radical" alt="my github stats" width="420"/>
 </P>
 
 <!-- Github仓库内编程语言使用情况统计 -->

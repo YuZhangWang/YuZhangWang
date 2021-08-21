@@ -19,14 +19,11 @@
 - openSUSE
 
 ## 🏆 Github Status
-<div>
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true" alt="my github stats" width="420"/>&nbsp;
-</div>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true" alt="my github stats" width="420"/>
+</P>
 
 ![YuZhangWang's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YuZhangWang&show_icons=true) 
-    
-</div>
     
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
 

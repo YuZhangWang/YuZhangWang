@@ -58,7 +58,11 @@ Frameworks and Tools:
 ![GitHub User's stars](https://img.shields.io/github/stars/YuZhangWang)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yuzhangwang.yuzhangwang)
 
+<!-- 各种平台联系方式 -->
 ## 📬 Get In Touch
+<a href="https://blog.csdn.net/qq_43616274" target="_blank"> 
+<img src="https://img.shields.io/badge/CSDN-YuZhangWang-orange"/>
+</a>
 - CSDN:[YuZhangWang](https://blog.csdn.net/qq_43616274) 
 - 掘金: [YuzhangWang](https://juejin.cn/user/4476867080633319) 
 - 知乎: [YuzhangWang](https://www.zhihu.com/people/sha-li-sha-qi-de-qing-mang) 
@@ -72,6 +76,8 @@ Frameworks and Tools:
 - 微博:[YuZhangWang](https://weibo.com/u/5603095987)  
 - 网易云:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/Screenshot_20210309-211644__01.jpg)  
 
+
+<!-- 请我喝杯柠檬红茶叭 -->
 ## 💰 Buy Me A Cup Of Lemon Tea
 - [支付宝](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/1615297259162__01.jpg)  
 - [微信](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/mm_facetoface_collect_qrcode_1615297272472__01.png)  

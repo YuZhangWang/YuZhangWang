@@ -62,7 +62,7 @@ Frameworks and Tools:
 ## 📬 Get In Touch
 <!-- CSDN -->
 <a href="https://blog.csdn.net/qq_43616274" target="_blank"> 
-<img src="https://img.shields.io/badge/CSDN-YuZhangWang-orange">
+<img src="https://img.shields.io/badge/CSDN-YuZhangWang-%23FC5531">
 </a>
 </br>
 <!-- 掘金 -->

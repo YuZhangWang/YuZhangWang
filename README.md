@@ -23,6 +23,12 @@
 - 网易云:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/Screenshot_20210309-211644__01.jpg)  
 - 微博:[YuZhangWang](https://weibo.com/u/5603095987)  
 
+![YuZhangWang's github stats](https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true)
+![YuZhangWang's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YuZhangWang&show_icons=true)
+<!--
+![YuZhangWang's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YuZhangWang&show_icons=true&layout=compact)
+-->
+
 ## 💰 请我杯可乐?
 - [支付宝](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/1615297259162__01.jpg)  
 - [微信](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/mm_facetoface_collect_qrcode_1615297272472__01.png)  

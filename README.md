@@ -77,7 +77,7 @@ Frameworks and Tools:
 </br>
 <!-- Github -->
 <a href="https://github.com/YuZhangWang" target="_blank"> 
-<img src="https://img.shields.io/badge/Github-YuZhangWang-black">
+<img src="https://img.shields.io/badge/Github-YuZhangWang-%2324292F">
 </a>
 </br>
 <!-- Gitee -->

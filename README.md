@@ -36,6 +36,8 @@
 ![YuZhangWang's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YuZhangWang&show_icons=true&layout=compact)
 -->
 
+  [![YuZhangWang's contribution graph as a Game of Life](https://github4life.herokuapp.com/YuZhangWang.gif)](https://github4life.herokuapp.com/YuZhangWang)
+
 ![GitHub followers](https://img.shields.io/github/followers/YuZhangWang)
 ![GitHub User's stars](https://img.shields.io/github/stars/YuZhangWang)
 ![isitors](https://visitor-badge.glitch.me/badge?page_id=YuZhangWang.YuZhangWang)

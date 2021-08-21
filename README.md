@@ -79,8 +79,12 @@ Frameworks and Tools:
 <a href="https://github.com/YuZhangWang" target="_blank"> 
 <img src="https://img.shields.io/badge/Github-YuZhangWang-black">
 </a>
+</br>
+<!-- Gitee -->
+<a href="https://gitee.com/YuZhangWang233" target="_blank"> 
+<img src="https://img.shields.io/badge/Gitee-YuZhangWang-red">
+</a>
 
-- Github:[YuZhangWang](https://github.com/YuZhangWang)  
 - Gitee:[YuZhangWang](https://gitee.com/YuZhangWang233) 
 - LeetCode:[YuZhangWang](https://leetcode-cn.com/u/yuzhangwang/)  
 - bilibili: [YuzhangWang](https://space.bilibili.com/19474542)  

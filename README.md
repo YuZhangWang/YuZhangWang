@@ -117,7 +117,7 @@ Frameworks and Tools:
 </br>
 <!-- 网易云 -->
 <a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/Screenshot_20210309-211644__01.jpg" target="_blank"> 
-<img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91-YuZhangWang-red">
+<img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91-YuZhangWang-%23DF001B">
 </a>
 
 <!-- 请我喝杯柠檬红茶叭 -->

@@ -102,17 +102,17 @@ Frameworks and Tools:
 </br>
 <!-- 微信 -->
 <a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/mmqrcode1615295634051.png" target="_blank"> 
-<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-YuZhangWang-success">
+<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-YuZhangWang-%231AAD19">
 </a>
 </br>
 <!-- 酷安 -->
 <a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/IMG_20210309_211618.png" target="_blank"> 
-<img src="https://img.shields.io/badge/%E9%85%B7%E5%AE%89-YuZhangWang-green">
+<img src="https://img.shields.io/badge/%E9%85%B7%E5%AE%89-YuZhangWang-%2311C273">
 </a>
 </br>
 <!-- 微博 -->
 <a href="https://weibo.com/u/5603095987" target="_blank"> 
-<img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-YuZhangWang-critical">
+<img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-YuZhangWang-%23EB161A">
 </a>
 </br>
 <!-- 网易云 -->

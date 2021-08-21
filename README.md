@@ -19,6 +19,8 @@
 - openSUSE
 
 ## 🏆 Github Status
+[![YuZhangWang's contribution graph as a Game of Life](https://github4life.herokuapp.com/YuZhangWang.gif)](https://github4life.herokuapp.com/YuZhangWang)
+
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true" alt="my github stats" width="420"/>
 </P>

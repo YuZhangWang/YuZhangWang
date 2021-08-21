@@ -61,8 +61,9 @@ Frameworks and Tools:
 <!-- 各种平台联系方式 -->
 ## 📬 Get In Touch
 <a href="https://blog.csdn.net/qq_43616274" target="_blank"> 
-<img src="https://img.shields.io/badge/CSDN-YuZhangWang-orange"/>
+<img src="https://img.shields.io/badge/CSDN-YuZhangWang-orange">
 </a>
+
 - CSDN:[YuZhangWang](https://blog.csdn.net/qq_43616274) 
 - 掘金: [YuzhangWang](https://juejin.cn/user/4476867080633319) 
 - 知乎: [YuzhangWang](https://www.zhihu.com/people/sha-li-sha-qi-de-qing-mang) 

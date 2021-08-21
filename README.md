@@ -13,20 +13,6 @@
 - 数码爱好者
 - openSUSE
 
-## 📬 Get In Touch
-- CSDN:[YuZhangWang](https://blog.csdn.net/qq_43616274) 
-- 掘金: [YuzhangWang](https://juejin.cn/user/4476867080633319) 
-- 知乎: [YuzhangWang](https://www.zhihu.com/people/sha-li-sha-qi-de-qing-mang) 
-- Github:[YuZhangWang](https://github.com/YuZhangWang)  
-- Gitee:[YuZhangWang](https://gitee.com/YuZhangWang233) 
-- LeetCode:[YuZhangWang](https://leetcode-cn.com/u/yuzhangwang/)  
-- bilibili: [YuzhangWang](https://space.bilibili.com/19474542)  
-- QQ:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/qrcode_1615295622746.jpg)  
-- 微信:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/mmqrcode1615295634051.png)  
-- 酷安:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/IMG_20210309_211618.png)  
-- 微博:[YuZhangWang](https://weibo.com/u/5603095987)  
-- 网易云:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/Screenshot_20210309-211644__01.jpg)  
-
 ## 🏆 Github Status
 <!-- 
 <a href="">
@@ -49,6 +35,24 @@
 <!--
 ![YuZhangWang's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YuZhangWang&show_icons=true&layout=compact)
 -->
+
+## 📬 Get In Touch
+- CSDN:[YuZhangWang](https://blog.csdn.net/qq_43616274) 
+- 掘金: [YuzhangWang](https://juejin.cn/user/4476867080633319) 
+- 知乎: [YuzhangWang](https://www.zhihu.com/people/sha-li-sha-qi-de-qing-mang) 
+- Github:[YuZhangWang](https://github.com/YuZhangWang)  
+- Gitee:[YuZhangWang](https://gitee.com/YuZhangWang233) 
+- LeetCode:[YuZhangWang](https://leetcode-cn.com/u/yuzhangwang/)  
+- bilibili: [YuzhangWang](https://space.bilibili.com/19474542)  
+- QQ:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/qrcode_1615295622746.jpg)  
+- 微信:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/mmqrcode1615295634051.png)  
+- 酷安:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/IMG_20210309_211618.png)  
+- 微博:[YuZhangWang](https://weibo.com/u/5603095987)  
+- 网易云:[YuZhangWang](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/Screenshot_20210309-211644__01.jpg)  
+
+![GitHub followers](https://img.shields.io/github/followers/YuZhangWang)
+![GitHub User's stars](https://img.shields.io/github/stars/YuZhangWang)
+![isitors](https://visitor-badge.glitch.me/badge?page_id=YuZhangWang.YuZhangWang)
 
 ## 💰 Buy Me a Coffee
 - [支付宝](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/1615297259162__01.jpg)  

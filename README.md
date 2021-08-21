@@ -41,6 +41,7 @@ Frameworks and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"/></code>
 <code><img height="20" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" alt="clion"/></code>
 <code><img height="20" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="webstorm"/></code>
+<code><img height="20" src="https://resources.jetbrains.com/storage/products/idea/img/meta/idea_logo_300x300.png" alt="idea"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
 

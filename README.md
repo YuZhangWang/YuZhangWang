@@ -112,7 +112,7 @@ Frameworks and Tools:
 </a>
 </br>
 <!-- 酷安 -->
-<a href="https://music.163.com/#/user/home?id=340104770" target="_blank"> 
+<a href="http://www.coolapk.com/u/1670757" target="_blank"> 
 <img src="https://img.shields.io/badge/%E9%85%B7%E5%AE%89-YuZhangWang-%2311C273">
 </a>
 </br>

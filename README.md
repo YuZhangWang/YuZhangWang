@@ -8,7 +8,7 @@
 <p align="center">
     Guido van Rossum, Python之父:<a href="https://twitter.com/gvanrossum/status/1111628076801236993">"996"工作制是不人道的.</a></br>
     <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
-    <a href="https://blog.csdn.net/qq_43531216"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
+    <a href="https://github.com/996icu/996.ICU/blob/master/LICENS"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" alt="996.icu" /></a>
 </p>
 
 <!-- 关于我的一些生活信息 -->

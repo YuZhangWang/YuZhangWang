@@ -12,7 +12,7 @@
 </p>
 
 <!-- 随着时间推移反996运动点赞人数 --> 
-[![Stargazers over time](https://starchart.cc/996icu/996.icu.svg)](https://starchart.cc/996icu/996.icu) 
+[![Stargazers over time](https://starchart.cc/996icu/996.ICU.svg)](https://starchart.cc/996icu/996.ICU)
 
 <!-- 关于我的一些生活信息 -->
 ## 🤵 About Me

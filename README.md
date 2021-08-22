@@ -11,7 +11,7 @@
     <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" alt="996.icu" /></a>
 </p>
 <!-- 逃离996 -->
-[![Stargazers over time](https://starchart.cc/623637646/996.Leave.svg)](https://starchart.cc/623637646/996.Leave)
+[![Stargazers over time](https://starchart.cc/623637646/996.Leave.svg)](https://starchart.cc/623637646/996.Leave) 
 
 <!-- 关于我的一些生活信息 -->
 ## 🤵 About Me

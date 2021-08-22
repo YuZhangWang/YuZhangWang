@@ -9,10 +9,10 @@
     Guido van Rossum, Python之父:<a href="https://twitter.com/gvanrossum/status/1111628076801236993">"996"工作制是不人道的.</a></br>
     <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
     <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" alt="996.icu" /></a>
-    <a href="https://github.com/onlyGuo/easymybatis/blob/master/LICENSE"><img src="https://img.shields.io/github/license/onlyGuo/nginx-gui.svg?style=popout"></a>
+    <a href="https://github.com/YuZhangWang/YuZhangWang/blob/master/LICENSE"><img src="https://img.shields.io/github/license/onlyGuo/nginx-gui.svg?style=popout"></a>
 </p>
 
-<!-- 随着时间推移逃离996项目点赞人数 --> 
+<!-- 随着时间推移逃离996项目点赞人数,反996运动点赞人数太多,以及显示不了了,故采用相同性质的逃离996项目展示 --> 
 [![Stargazers over time](https://starchart.cc/623637646/996.Leave.svg)](https://starchart.cc/623637646/996.Leave)
 
 <!-- 关于我的一些生活信息 -->

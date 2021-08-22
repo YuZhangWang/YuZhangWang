@@ -139,3 +139,8 @@ Frameworks and Tools:
 ## 💰 Buy Me A Cup Of Lemon Tea
 - [支付宝](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/1615297259162__01.jpg)  
 - [微信](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/mm_facetoface_collect_qrcode_1615297272472__01.png)  
+
+<!-- 不错的动画 -->
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210822141853.gif" width=45%/> 
+</div>

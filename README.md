@@ -7,7 +7,8 @@
 
 <!-- 反996运动 https://996.icu  https://github.com/996icu -->
 <p align="center">
-    Guido van Rossum, Python之父:<a href="https://twitter.com/gvanrossum/status/1111628076801236993">"996"工作制是不人道的.</a></br>
+    Guido van Rossum, Python之父:<a href="https://twitter.com/gvanrossum/status/1111628076801236993">"996"工作制是不人道的.</a>
+    </br>
     <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
     <a href="https://996tsc.netlify.app/#/sticker"><img src="https://img.shields.io/badge/link-996.TSC-red" alt="996.TSC" /></a>
     <a href="https://github.com/top996/top.996"><img src="https://camo.githubusercontent.com/33a2b5d1787d372c8d9c7cfbdef67ca85981252cd2a1252d71bce9ea490300bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b2d746f702e3939362d7265642e737667" alt="996.top" /></a>
@@ -19,7 +20,7 @@
     <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" alt="996.icu" /></a>
     <a href="https://github.com/YuZhangWang/YuZhangWang/blob/master/LICENSE"><img src="https://img.shields.io/github/license/onlyGuo/nginx-gui.svg?style=popout"></a>
 </p>
-</br></br>
+</br>
 
 <!-- 随着时间推移逃离996项目点赞人数,反996运动点赞人数太多,已经显示不了了,故采用相同性质的逃离996项目展示 --> 
 [![Stargazers over time](https://starchart.cc/623637646/996.Leave.svg)](https://starchart.cc/623637646/996.Leave)  

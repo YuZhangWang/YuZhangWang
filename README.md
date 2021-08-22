@@ -112,7 +112,7 @@ Frameworks and Tools:
 </a>
 </br>
 <!-- 酷安 -->
-<a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/IMG_20210309_211618.png" target="_blank"> 
+<a href="https://music.163.com/#/user/home?id=340104770" target="_blank"> 
 <img src="https://img.shields.io/badge/%E9%85%B7%E5%AE%89-YuZhangWang-%2311C273">
 </a>
 </br>

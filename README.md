@@ -7,7 +7,7 @@
 
 <!-- 反996运动 https://996.icu  https://github.com/996icu -->
 <p align="center">
-    <p>Guido van Rossum, Python之父:<a href="https://twitter.com/gvanrossum/status/1111628076801236993">"996"工作制是不人道的.</a></p>
+    <h2>Guido van Rossum, Python之父:<a href="https://twitter.com/gvanrossum/status/1111628076801236993">"996"工作制是不人道的.</a></h2>
     </br>
     <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
     <a href="https://996tsc.netlify.app/#/sticker"><img src="https://img.shields.io/badge/link-996.TSC-red" alt="996.TSC" /></a>

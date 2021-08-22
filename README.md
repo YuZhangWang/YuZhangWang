@@ -3,6 +3,7 @@
 <div align="center">
 <img src="https://profile-counter.glitch.me/YuZhangWang/count.svg" alt="访客数量">
 </div>
+</br>
 
 <!-- 反996运动 https://996.icu  https://github.com/996icu -->
 <p align="center">
@@ -18,6 +19,7 @@
     <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" alt="996.icu" /></a>
     <a href="https://github.com/YuZhangWang/YuZhangWang/blob/master/LICENSE"><img src="https://img.shields.io/github/license/onlyGuo/nginx-gui.svg?style=popout"></a>
 </p>
+</br></br>
 
 <!-- 随着时间推移逃离996项目点赞人数,反996运动点赞人数太多,已经显示不了了,故采用相同性质的逃离996项目展示 --> 
 [![Stargazers over time](https://starchart.cc/623637646/996.Leave.svg)](https://starchart.cc/623637646/996.Leave)  
@@ -27,6 +29,7 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210822063237.gif" width=45%/> 
 </div>
+</br>
 
 - YuZhangWang(豫章望),无名之辈,一个刚上路的极客和程序员  
 - 励志成为一名算法工程师,研究深度学习、机器学习,达到算法工程落地的要求,同时前端后端掌握一些内容

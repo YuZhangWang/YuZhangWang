@@ -12,9 +12,7 @@
     <a href="https://github.com/YuZhangWang/YuZhangWang/blob/master/LICENSE"><img src="https://img.shields.io/github/license/onlyGuo/nginx-gui.svg?style=popout"></a>
 </p>
 
-<!-- 随着时间推移逃离996项目点赞人数 -->
-<p align="center">随着时间推移逃离996项目点赞人数(反996运动点赞人数太多,已经显示不了了,故采用相同性质的逃离996项目展示)</p> 
-
+<!-- 随着时间推移逃离996项目点赞人数,反996运动点赞人数太多,已经显示不了了,故采用相同性质的逃离996项目展示 --> 
 [![Stargazers over time](https://starchart.cc/623637646/996.Leave.svg)](https://starchart.cc/623637646/996.Leave)  
 
 <!-- 关于我的一些生活信息 -->

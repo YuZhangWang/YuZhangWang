@@ -52,6 +52,9 @@
 <!-- Github小动图 -->
 ![](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910010024.gif)
 
+<!-- github关注活跃图表 -->
+[![YuZhangWang's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuZhangWang&theme=dracula)](https://github.com/YuZhangWang/github-readme-activity-graph)
+
 <!-- Github状态 -->
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>

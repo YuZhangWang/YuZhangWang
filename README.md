@@ -137,6 +137,20 @@ Frameworks and Tools:
 <img src="https://img.shields.io/badge/bilibili-YuZhangWang-%23FB7299">
 </a>
 </br>
+<!-- 酷安 -->
+<a href="http://www.coolapk.com/u/1670757" target="_blank"> 
+<img src="https://img.shields.io/badge/%E9%85%B7%E5%AE%89-YuZhangWang-%2311C273">
+</a>
+</br>
+<!-- 网易云 -->
+<a href="https://music.163.com/#/user/home?id=340104770" target="_blank"> 
+<img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91-YuZhangWang-%23DF001B">
+</a>
+<!-- 微博 -->
+<a href="https://weibo.com/u/5603095987" target="_blank"> 
+<img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-YuZhangWang-%23FAD441">
+</a>
+</br>
 <!-- QQ -->
 <a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/qrcode_1615295622746.jpg" target="_blank"> 
 <img src="https://img.shields.io/badge/QQ-YuZhangWang-%2350BCFE">
@@ -147,20 +161,6 @@ Frameworks and Tools:
 <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-YuZhangWang-%231AAD19">
 </a>
 </br>
-<!-- 酷安 -->
-<a href="http://www.coolapk.com/u/1670757" target="_blank"> 
-<img src="https://img.shields.io/badge/%E9%85%B7%E5%AE%89-YuZhangWang-%2311C273">
-</a>
-</br>
-<!-- 微博 -->
-<a href="https://weibo.com/u/5603095987" target="_blank"> 
-<img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-YuZhangWang-%23FAD441">
-</a>
-</br>
-<!-- 网易云 -->
-<a href="https://music.163.com/#/user/home?id=340104770" target="_blank"> 
-<img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91-YuZhangWang-%23DF001B">
-</a>
 
 <!-- 请我喝杯柠檬红茶叭 -->
 ## 💰 Buy Me A Cup Of Lemon Tea

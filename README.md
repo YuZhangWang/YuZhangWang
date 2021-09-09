@@ -50,7 +50,7 @@
 <!-- 关于我的一些编程信息,例如Github状态,Github仓库内编程语言使用情况统计,常用的编程语言,常用的编程框架和IDE工具,Github粉丝点赞访客 -->
 ## 🏆 Github Status
 <!-- Github小动图 -->
-[![YuZhangWang's contribution graph as a Game of Life](https://github4life.herokuapp.com/YuZhangWang.gif)](https://github4life.herokuapp.com/YuZhangWang)
+[![csfwff's contribution graph as a Game of Life](https://github4life.herokuapp.com/csfwff.gif)](https://github4life.herokuapp.com/csfwff)
 
 <!-- Github状态 -->
 <p align="left">

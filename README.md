@@ -156,7 +156,7 @@ Frameworks and Tools:
 </a>
 </br>
 <!-- QQ -->
-<a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/qrcode_1615295622746.jpg" target="_blank"> 
+<a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=277598524&website=www.oicqzone.com" target="_blank"> 
 <img src="https://img.shields.io/badge/QQ-YuZhangWang-%2350BCFE">
 </a>
 </br>

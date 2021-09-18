@@ -98,6 +98,10 @@ Frameworks and Tools:
 ![GitHub User's stars](https://img.shields.io/github/stars/YuZhangWang)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yuzhangwang.yuzhangwang)
 
+<!-- 对朋友的期待 -->
+# 👀Friend Selection Criteria
+如果你智商,情商皆为正常人水平,不阴阳怪气,乐观积极向上,欢迎联系我交流;如果你喜欢玩炉石,是个极客,对讨论学术不反感,那我们可能会有很多共同话题。
+
 <!-- 各种平台联系方式 -->
 ## 📬 Get In Touch
 <!-- StackOverFlow -->

@@ -32,7 +32,7 @@
 </div>
 </br>
 
-- YuZhangWang(豫章望),一个刚上路的极客和程序员  
+- YuZhangWang(豫章望),无名之辈,一个刚上路的极客和程序员  
 - 励志成为一名算法工程师,研究深度学习、机器学习,达到算法工程落地的要求,同时前端后端掌握一些内容
 - 合作邮箱<a href="mailto:YuZhangWang233@163.com">YuZhangWang233@163.com</a>
 - 个人博客[https://www.yuzhang.wang](https://www.yuzhang.wang)

@@ -66,11 +66,11 @@
 <div>
 <!-- Github状态 -->
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=tokyonight" height="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=tokyonight" height="200"/>
 </a>
 <!-- Github仓库内编程语言使用情况统计 -->    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang&hide=html&layout=compact" height="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang&hide=html&layout=compact" height="200"/>
 </a>
 </div>
 

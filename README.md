@@ -66,14 +66,13 @@
 <div>
 <!-- Github状态 -->
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=tokyonight" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=tokyonight" width="420"/>
 </a>
 <!-- Github仓库内编程语言使用情况统计 -->    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang&hide=html&layout=compact" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang&hide=html&layout=compact" width="420"/>
 </a>
 </div>
-</br>
 
 <!-- 常用的编程语言 -->
 Languages:

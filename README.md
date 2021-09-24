@@ -61,8 +61,10 @@
 </P>
 
 <!-- Github仓库内编程语言使用情况统计 -->
+<p align="center">
 ![YuZhangWang's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YuZhangWang&show_icons=true) 
- 
+</P>
+    
 <!-- 常用的编程语言 -->
 Languages:
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011149.png" alt="python" /></code>

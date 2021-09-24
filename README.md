@@ -62,7 +62,14 @@
 
 <!-- Github仓库内编程语言使用情况统计 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-    
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 <!-- 常用的编程语言 -->
 Languages:
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011149.png" alt="python" /></code>

@@ -56,7 +56,7 @@
 [![YuZhangWang's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuZhangWang&theme=react-dark)](https://github.com/YuZhangWang/github-readme-activity-graph)
 
 <!-- Github状态 -->
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
 </P>
 

@@ -61,9 +61,7 @@
 </P>
 
 <!-- Github仓库内编程语言使用情况统计 -->
-<p align="center">
-![YuZhangWang's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YuZhangWang&show_icons=true) 
-</P>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang&hide=html)](https://github.com/anuraghazra/github-readme-stats) 
     
 <!-- 常用的编程语言 -->
 Languages:

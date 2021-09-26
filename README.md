@@ -28,7 +28,7 @@
 <!-- 关于我的一些生活信息 -->
 ## 🤵 About Me
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210822063237.gif" width=45%/> 
+<img src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/202109261325617.gif" width="150"/> 
 </div>
 </br>
 

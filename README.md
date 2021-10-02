@@ -61,7 +61,7 @@
 </P>
 
 <!-- Github仓库内编程语言使用情况统计 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang&hide=html&hide=javascript&hide=java)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang&hide=html,java)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- 常用的编程语言 -->

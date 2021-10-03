@@ -125,7 +125,7 @@ Frameworks and Tools:
 </a>
 </br>
 <!-- 知乎 -->
-<a href="https://www.zhihu.com/people/sha-li-sha-qi-de-qing-mang" target="_blank"> 
+<a href="https://www.zhihu.com/people/YuZhangWang" target="_blank"> 
 <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-YuZhangWang-%230066FF">
 </a>
 </br>

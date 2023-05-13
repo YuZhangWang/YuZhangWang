@@ -31,37 +31,8 @@
 <!-- 随着时间推移逃离996项目点赞人数,反996运动点赞人数太多,已经显示不了了,故采用相同性质的逃离996项目展示 --> 
 [![Stargazers over time](https://starchart.cc/623637646/996.Leave.svg)](https://starchart.cc/623637646/996.Leave)  
 
-<!-- 关于我的一些生活信息 -->
-## 🤵 About Me
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/202109261325617.gif" width="150"/> 
-</div>
-</br>
-
-> - YuZhangWang(豫章望),无名之辈,一个刚上路的极客和程序员  
-> - 励志成为一名算法工程师,研究深度学习、机器学习,达到算法工程落地的要求,同时前端后端掌握一些内容   
-> - 合作邮箱<a href="mailto:YuZhangWang233@163.com">YuZhangWang233@163.com</a>   
-> - 个人博客[https://yuzhang.wang](https://yuzhang.wang)   
-> - 博客备份[【FlowUs 息流】YuZhangWang的领域](https://flowus.cn/yuzhangwang/share/7df66bdd-907c-4023-803c-b8c5cfe06d4a)   
-> - RSS订阅[https://yuzhang.wang/atom.xml](https://yuzhang.wang/atom.xml)   
-
-<!-- 我的一些兴趣爱好信息 -->
-## 💻 Hobbies
-- Coding 
-- 刷机 
-- 折腾ROM 
-- 看电影 
-- 数码爱好者
-- openSUSE
-
 <!-- 关于我的一些编程信息,例如Github状态,Github仓库内编程语言使用情况统计,常用的编程语言,常用的编程框架和IDE工具,Github粉丝点赞访客 -->
 ## 🏆 Github Status
-<!-- Github小动图 -->
-![](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/202109182343149.gif)
-
-<!-- github关注活跃图表 -->
-[![YuZhangWang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuZhangWang&&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <table>
     <tr>
         <!-- Github状态 -->
@@ -104,6 +75,29 @@ Frameworks and Tools:
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910012027.png" alt="IDEA"/></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910012045.png" alt="Maven"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910012209.png" alt="Visual-Studio-Code" /></code>
+
+<!-- 关于我的一些生活信息 -->
+## 🤵 About Me
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/202109261325617.gif" width="150"/> 
+</div>
+</br>
+
+> - YuZhangWang(豫章望),无名之辈,一个刚上路的极客和程序员  
+> - 励志成为一名算法工程师,研究深度学习、机器学习,达到算法工程落地的要求,同时前端后端掌握一些内容   
+> - 合作邮箱<a href="mailto:YuZhangWang233@163.com">YuZhangWang233@163.com</a>   
+> - 个人博客[https://yuzhang.wang](https://yuzhang.wang)   
+> - 博客备份[【FlowUs 息流】YuZhangWang的领域](https://flowus.cn/yuzhangwang/share/7df66bdd-907c-4023-803c-b8c5cfe06d4a)   
+> - RSS订阅[https://yuzhang.wang/atom.xml](https://yuzhang.wang/atom.xml)   
+
+<!-- 我的一些兴趣爱好信息 -->
+## 💻 Hobbies
+- Coding 
+- 刷机 
+- 折腾ROM 
+- 看电影 
+- 数码爱好者
+- openSUSE
 
 <!-- 各种平台联系方式 -->
 ## 📬 Get In Touch

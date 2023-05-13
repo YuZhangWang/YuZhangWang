@@ -53,11 +53,11 @@
 ![](https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/202109182343149.gif)
 
 <!-- github关注活跃图表 -->
-[![YuZhangWang's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuZhangWang&theme=react-dark)](https://github.com/YuZhangWang/github-readme-activity-graph)
+[![YuZhangWang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuZhangWang&&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Github状态 -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=dark&include_all_commits=true" alt="my github stats" width="420"/>
 </P>
 
 <!-- Github仓库内编程语言使用情况统计 -->

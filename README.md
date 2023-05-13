@@ -101,16 +101,38 @@ Frameworks and Tools:
 
 <!-- 各种平台联系方式 -->
 ## 📬 Get In Touch
-<!-- StackOverFlow -->
-<a href="https://stackoverflow.com/users/16347524/yuzhangwang" target="_blank"> 
-<img src="https://img.shields.io/badge/StackOverFlow-YuZhangWang-%23F48024">
-</a>
-</br>
-<!-- CSDN -->
-<a href="https://blog.csdn.net/qq_43616274" target="_blank"> 
-<img src="https://img.shields.io/badge/CSDN-YuZhangWang-%23FC5531">
-</a>
-</br>
+<table>
+  <tr>
+    <td>
+        <!-- StackOverFlow -->
+        <a href="https://stackoverflow.com/users/16347524/yuzhangwang" target="_blank"> 
+        <img src="https://img.shields.io/badge/StackOverFlow-YuZhangWang-%23F48024">
+        </a>
+    </td>
+    <td>
+        <!-- CSDN -->
+        <a href="https://blog.csdn.net/qq_43616274" target="_blank"> 
+        <img src="https://img.shields.io/badge/CSDN-YuZhangWang-%23FC5531">
+        </a>
+    </td>
+    <td>第一行，第三列</td>
+    <td>第一行，第四列</td>
+  </tr>
+  <tr>
+    <td>第二行，第一列</td>
+    <td>第二行，第二列</td>
+    <td>第二行，第三列</td>
+    <td>第二行，第四列</td>
+  </tr>
+  <tr>
+    <td>第三行，第一列</td>
+    <td>第三行，第二列</td>
+    <td>第三行，第三列</td>
+    <td>第三行，第四列</td>
+  </tr>
+</table>
+
+
 <!-- 掘金 -->
 <a href="https://juejin.cn/user/4476867080633319" target="_blank"> 
 <img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-YuZhangWang-%231E80FF">
@@ -149,11 +171,6 @@ Frameworks and Tools:
 <!-- 网易云 -->
 <a href="https://music.163.com/#/user/home?id=340104770" target="_blank"> 
 <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91-YuZhangWang-%23DF001B">
-</a>
-</br>
-<!-- 微博 -->
-<a href="https://weibo.com/u/5603095987" target="_blank"> 
-<img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-YuZhangWang-%23FAD441">
 </a>
 </br>
 <!-- QQ -->

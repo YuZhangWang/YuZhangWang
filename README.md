@@ -56,6 +56,7 @@
 <!-- github关注活跃图表 -->
 [![YuZhangWang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuZhangWang&&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div>
 <!-- Github状态 -->
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=dark&include_all_commits=true" alt="my github stats" width="420"/>
@@ -63,7 +64,7 @@
 
 <!-- Github仓库内编程语言使用情况统计 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 <!-- 常用的编程语言 -->
 Languages:

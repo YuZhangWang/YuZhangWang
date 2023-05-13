@@ -9,7 +9,7 @@
 <div align="center">
     <strong>Guido van Rossum, Python之父:<a href="https://twitter.com/gvanrossum/status/1111628076801236993">"996"工作制是不人道的.</a></strong>
     </br>
-    <table>
+    <table border="0">
   <tr>
     <td><a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a></td>
     <td><a href="https://996tsc.netlify.app/#/sticker"><img src="https://img.shields.io/badge/link-996.TSC-red" alt="996.TSC" /></a></td>
@@ -107,7 +107,7 @@ Frameworks and Tools:
 
 <!-- 各种平台联系方式 -->
 ## 📬 Get In Touch
-<table>
+<table border="0">
   <tr>
     <td>
         <!-- StackOverFlow -->

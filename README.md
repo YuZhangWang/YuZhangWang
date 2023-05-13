@@ -61,7 +61,7 @@
 </P>
 
 <!-- Github仓库内编程语言使用情况统计 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang&hide=html,java)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- 常用的编程语言 -->
@@ -97,15 +97,6 @@ Frameworks and Tools:
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910012027.png" alt="IDEA"/></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910012045.png" alt="Maven"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910012209.png" alt="Visual-Studio-Code" /></code>
-
-<!-- Github粉丝点赞访客 -->
-![GitHub followers](https://img.shields.io/github/followers/YuZhangWang)
-![GitHub User's stars](https://img.shields.io/github/stars/YuZhangWang)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yuzhangwang.yuzhangwang)
-
-<!-- 对朋友的期待 -->
-## 👀Friend Selection Criteria
-如果你智商、情商皆为正常人水平，不阴阳怪气、乐观积极向上，欢迎联系我交流；如果你喜欢玩炉石，是个极客，对学术性讨论不反感，那我们可能会有很多共同话题。
 
 <!-- 各种平台联系方式 -->
 ## 📬 Get In Touch

@@ -146,7 +146,7 @@ Frameworks and Tools:
         <a href="https://leetcode-cn.com/u/yuzhangwang/" target="_blank"> 
         <img src="https://img.shields.io/badge/LeetCode-YuZhangWang-%23FFA119">
         </a>
-     <td>
+     </td>
     <td>
         <!-- bilibili -->
         <a href="https://space.bilibili.com/19474542" target="_blank"> 

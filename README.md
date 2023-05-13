@@ -187,24 +187,3 @@ Frameworks and Tools:
     </td>
   </tr>
 </table>
-
-
-
-
-
-
-<!-- 请我喝杯柠檬红茶叭 -->
-## 💰 Buy Me A Cup Of Lemon Tea
-<!-- 支付宝 -->
-<a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@master/2021/09/07/20210907015229435.jpg" target="_blank"> 
-<img src="https://img.shields.io/badge/-%E6%94%AF%E4%BB%98%E5%AE%9D-blue">
-</a>
-<!-- 微信 -->
-<a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@master/2021/09/07/20210907015317436.png" target="_blank"> 
-<img src="https://img.shields.io/badge/-%E5%BE%AE%E4%BF%A1-231AAD19">
-</a>
-
-<!-- 不错的动画 -->
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210822141853.gif" width=45%/> 
-</div>

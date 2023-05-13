@@ -58,17 +58,12 @@
 
 <table>
     <tr>
-        <td><img src="image1.jpg" alt="Image 1" /></td>
-        <td><img src="image2.jpg" alt="Image 2" /></td>
+        <!-- Github状态 -->
+        <td><img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=dark&include_all_commits=true" alt="my github stats"/></td>
+        <!-- Github仓库内编程语言使用情况统计 -->
+        <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang)](https://github.com/anuraghazra/github-readme-stats)</td>
     </tr>
 </table>
-<div>
-<!-- Github状态 -->
-<img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=dark&include_all_commits=true" alt="my github stats"/>
-
-<!-- Github仓库内编程语言使用情况统计 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <!-- 常用的编程语言 -->
 Languages:

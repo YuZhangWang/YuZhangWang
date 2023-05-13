@@ -87,15 +87,6 @@ Frameworks and Tools:
 > - 博客备份[【FlowUs 息流】YuZhangWang的领域](https://flowus.cn/yuzhangwang/share/7df66bdd-907c-4023-803c-b8c5cfe06d4a)   
 > - RSS订阅[https://yuzhang.wang/atom.xml](https://yuzhang.wang/atom.xml)   
 
-<!-- 我的一些兴趣爱好信息 -->
-## 💻 Hobbies
-- Coding 
-- 刷机 
-- 折腾ROM 
-- 看电影 
-- 数码爱好者
-- openSUSE
-
 <!-- 各种平台联系方式 -->
 ## 📬 Get In Touch
 <table border="0">

@@ -59,7 +59,7 @@
 <div>
 <!-- Github状态 -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=dark&include_all_commits=true" alt="my github stats" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=dark&include_all_commits=true" alt="my github stats"/>
 </P>
 
 <!-- Github仓库内编程语言使用情况统计 -->

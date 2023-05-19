@@ -85,7 +85,7 @@ Frameworks and Tools:
 > - 励志成为一名算法工程师，研究深度学习、机器学习，达到算法工程落地的要求，同时前端后端掌握一些内容   
 > - 合作邮箱<a href="mailto:YuZhangWang233@163.com">YuZhangWang233@163.com</a>   
 > - 个人博客[https://yuzhang.wang](https://yuzhang.wang)   
-> - 博客备份[【FlowUs 息流】YuZhangWang的领域](https://flowus.cn/yuzhangwang/share/7df66bdd-907c-4023-803c-b8c5cfe06d4a)   
+> - 博客备份[YuZhangWang的领域](https://flowus.cn/yuzhangwang/share/7df66bdd-907c-4023-803c-b8c5cfe06d4a)   
 > - RSS订阅[https://yuzhang.wang/atom.xml](https://yuzhang.wang/atom.xml)   
 
 <!-- 各种平台联系方式 -->

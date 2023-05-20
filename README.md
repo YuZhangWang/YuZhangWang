@@ -31,6 +31,7 @@
 
 <!-- 关于我的一些编程信息,例如Github状态,Github仓库内编程语言使用情况统计,常用的编程语言,常用的编程框架和IDE工具,Github粉丝点赞访客 -->
 ## 🏆 Github Status
+<div align="center">
 <table>
     <tr>
         <!-- Github状态 -->
@@ -39,6 +40,7 @@
         <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang&theme=city_lights&layout=compact" alt="my github stats"/></td>
     </tr>
 </table>
+</div>
 
 <!-- 常用的编程语言 -->
 Languages:
@@ -90,6 +92,7 @@ Frameworks and Tools:
 
 <!-- 各种平台联系方式 -->
 ## 📬 Get In Touch
+<div align="center">
 <table border="0">
   <tr>
     <td>
@@ -170,3 +173,4 @@ Frameworks and Tools:
     </td>
   </tr>
 </table>
+</div>

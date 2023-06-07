@@ -12,18 +12,18 @@
     </br>
     <table border="0">
   <tr>
-    <td><a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a></td>
-    <td><a href="https://996tsc.netlify.app/#/sticker"><img src="https://img.shields.io/badge/link-996.TSC-red" alt="996.TSC" /></a></td>
-    <td><a href="https://github.com/top996/top.996"><img src="https://camo.githubusercontent.com/33a2b5d1787d372c8d9c7cfbdef67ca85981252cd2a1252d71bce9ea490300bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b2d746f702e3939362d7265642e737667" alt="996.top" /></a></td>
-    <td><a href="https://fengt-t.github.io/996_list/"><img src="https://img.shields.io/badge/link-996__list-red" alt="996_list" /></a></td>
-    <td><a href="https://github.com/it-job-blacklist/996ICU.job.blacklist_company"><img src="https://img.shields.io/badge/link-job--blacklist-red" alt="job-blacklist" /></a></td>
+    <td><a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg?style=for-the-badge" alt="996.icu" /></a></td>
+    <td><a href="https://996tsc.netlify.app/#/sticker"><img src="https://img.shields.io/badge/link-996.TSC-red?style=for-the-badge" alt="996.TSC" /></a></td>
+    <td><a href="https://github.com/top996/top.996"><img src="https://camo.githubusercontent.com/33a2b5d1787d372c8d9c7cfbdef67ca85981252cd2a1252d71bce9ea490300bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b2d746f702e3939362d7265642e737667?style=for-the-badge" alt="996.top" /></a></td>
+    <td><a href="https://fengt-t.github.io/996_list/"><img src="https://img.shields.io/badge/link-996__list-red?style=for-the-badge" alt="996_list" /></a></td>
+    <td><a href="https://github.com/it-job-blacklist/996ICU.job.blacklist_company"><img src="https://img.shields.io/badge/link-job--blacklist-red?style=for-the-badge" alt="job-blacklist" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/zxpsuper/IT-blacklist"><img src="https://img.shields.io/badge/link-IT--blacklist-red" alt="IT-blacklist" /></a></td>
-    <td><a href="https://github.com/996icu/996.ICU/tree/master/whitelist"><img src="https://img.shields.io/badge/link-whitelist-success" alt="whitelist" /></a></td>
-    <td><a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://camo.githubusercontent.com/09024be9657c958cef4715aa7fc66bfcb11dc98be2f43763e8bf9a2742716f0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4e504c2532302854686525323039393625323050726f686962697465642532304c6963656e7365292d626c75652e737667" alt="996.icu" /></a></td>
-    <td><a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" alt="996.icu" /></a></td>
-    <td><a href="https://github.com/YuZhangWang/YuZhangWang/blob/master/LICENSE"><img src="https://img.shields.io/github/license/onlyGuo/nginx-gui.svg?style=popout"></a></td>
+    <td><a href="https://github.com/zxpsuper/IT-blacklist"><img src="https://img.shields.io/badge/link-IT--blacklist-red?style=for-the-badge" alt="IT-blacklist" /></a></td>
+    <td><a href="https://github.com/996icu/996.ICU/tree/master/whitelist"><img src="https://img.shields.io/badge/link-whitelist-success?style=for-the-badge" alt="whitelist" /></a></td>
+    <td><a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://camo.githubusercontent.com/09024be9657c958cef4715aa7fc66bfcb11dc98be2f43763e8bf9a2742716f0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4e504c2532302854686525323039393625323050726f686962697465642532304c6963656e7365292d626c75652e737667?style=for-the-badge" alt="996.icu" /></a></td>
+    <td><a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg?style=for-the-badge" alt="996.icu" /></a></td>
+    <td><a href="https://github.com/YuZhangWang/YuZhangWang/blob/master/LICENSE"><img src="https://img.shields.io/github/license/onlyGuo/nginx-gui.svg?style=popout?style=for-the-badge"></a></td>
   </tr>
 </table> 
 </div>

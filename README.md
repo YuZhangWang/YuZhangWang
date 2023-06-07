@@ -93,7 +93,7 @@ Frameworks and Tools:
 <table width="100%" align="center" padding="0" margin="0">
 <tr>
 <td valign="top" width="100%">
-🤹‍♀️ <a href="https://yuzhang.wang" target="_blank">Recent Blog</a>
+<strong> 🤹‍♀️ <a href="https://yuzhang.wang" target="_blank">Recent Blog</a> </strong>
 
  
 <!-- START_SECTION:blog -->
@@ -106,7 +106,18 @@ Frameworks and Tools:
 | 2022-08-04 | <a href='https://yuzhang.wang/120-binary-tree/' target='_blank'>遍历二叉树</a> |
 | 2022-08-04 | <a href='https://yuzhang.wang/119-draft/' target='_blank'>吐槽《雪中》的文案</a> |
 <!-- END_SECTION:blog -->
+    
 </tr>
+<td valign="top" width="50%"> 
+<strong> 🤾‍♂️ <a href="https://blog.bj-yan.top/" target="_blank">Funny Soul</a> </strong>
+
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->
+</td>
+</tr>
+
+<!-- START_SECTION:github-xxx -->
+<!-- END_SECTION:github-xxx -->
 </table>
 
 <!-- 各种平台联系方式 -->

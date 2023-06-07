@@ -90,7 +90,7 @@ Frameworks and Tools:
 > - 博客备份[YuZhangWang的领域](https://flowus.cn/yuzhangwang/share/7df66bdd-907c-4023-803c-b8c5cfe06d4a)   
 > - RSS订阅[https://yuzhang.wang/atom.xml](https://yuzhang.wang/atom.xml)   
 
-<table width="100%" align="center" padding="0" margin="0">
+<table width="100%" align="center">
 <tr>
 <td valign="top" width="100%">
 🤹‍♀️ <a href="https://yuzhang.wang" target="_blank">Recent Blog</a>

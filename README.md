@@ -109,12 +109,12 @@ Frameworks and Tools:
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| Wed, 07 Jun 2023 17:04:30 GMT | 看过😎 <a href='http://movie.douban.com/subject/26959697/' target='_blank'>黑亚当</a>  |
-| Wed, 07 Jun 2023 17:04:15 GMT | 看过😎 <a href='http://movie.douban.com/subject/34884712/' target='_blank'>不要抬头</a>  |
-| Wed, 07 Jun 2023 17:04:12 GMT | 看过😎 <a href='http://movie.douban.com/subject/33455421/' target='_blank'>疾速追杀4</a>  |
-| Wed, 07 Jun 2023 17:03:52 GMT | 看过😎 <a href='http://movie.douban.com/subject/30304994/' target='_blank'>奇异博士2：疯狂多元宇宙</a>  |
-| Wed, 07 Jun 2023 17:03:49 GMT | 看过😎 <a href='http://movie.douban.com/subject/30167997/' target='_blank'>黑豹2</a>  |
-| Wed, 07 Jun 2023 17:03:27 GMT | 看过😎 <a href='http://movie.douban.com/subject/34477861/' target='_blank'>雷神4：爱与雷霆</a>  |
+| 2023-06-07 | 看过😎 <a href='http://movie.douban.com/subject/26959697/' target='_blank'>黑亚当</a>  |
+| 2023-06-07 | 看过😎 <a href='http://movie.douban.com/subject/34884712/' target='_blank'>不要抬头</a>  |
+| 2023-06-07 | 看过😎 <a href='http://movie.douban.com/subject/33455421/' target='_blank'>疾速追杀4</a>  |
+| 2023-06-07 | 看过😎 <a href='http://movie.douban.com/subject/30304994/' target='_blank'>奇异博士2：疯狂多元宇宙</a>  |
+| 2023-06-07 | 看过😎 <a href='http://movie.douban.com/subject/30167997/' target='_blank'>黑豹2</a>  |
+| 2023-06-07 | 看过😎 <a href='http://movie.douban.com/subject/34477861/' target='_blank'>雷神4：爱与雷霆</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

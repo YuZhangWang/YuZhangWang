@@ -18,7 +18,7 @@ jobs:
           blog_limit: 6
           douban_name: 179948994
           douban_limit: 6
-          blog_time_format: "%a, %d %b %Y %H:%M:%S %z"
+          blog_time_format: "%a, %d %b %Y"
           commit_message: Update readme rss by social-readme
           time_zone: "Asia/Shanghai"
 

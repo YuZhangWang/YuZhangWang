@@ -105,7 +105,6 @@ Frameworks and Tools:
 | 2022-08-04T16:04:50.000Z | <a href='https://yuzhang.wang/119-draft/' target='_blank'>吐槽《雪中》的文案</a> |
 <!-- END_SECTION:blog -->
 
-</tr>
 </td>
     
 <td valign="top" width="50%"> 
@@ -116,6 +115,7 @@ Frameworks and Tools:
 
 <!-- END_SECTION:douban -->
 </td>
+</tr>
 <!-- START_SECTION:github-xxx -->
 <!-- END_SECTION:github-xxx -->
 

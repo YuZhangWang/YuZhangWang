@@ -109,12 +109,12 @@ Frameworks and Tools:
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-03-08 | 想看🤔 <a href='http://movie.douban.com/subject/34795100/' target='_blank'>网络谜踪2</a>  |
-| 2023-03-03 | 想看🤔 <a href='http://movie.douban.com/subject/34884712/' target='_blank'>不要抬头</a>  |
-| 2023-02-24 | 想读 <a href='https://book.douban.com/subject/3249247/' target='_blank'>高观点下的初等数学</a>  |
-| 2023-02-22 | 想看🤔 <a href='http://movie.douban.com/subject/34610636/' target='_blank'>蚁人与黄蜂女：量子狂潮</a>  |
-| 2023-02-22 | 在看👀 <a href='http://movie.douban.com/subject/27040807/' target='_blank'>斗罗大陆1</a> ⭐⭐⭐⭐ |
-| 2023-02-22 | 在看👀 <a href='http://movie.douban.com/subject/35560094/' target='_blank'>斗破苍穹 年番</a> ⭐⭐⭐⭐ |
+| Wed, 08 Mar 2023 09:58:41 GMT | 想看🤔 <a href='http://movie.douban.com/subject/34795100/' target='_blank'>网络谜踪2</a>  |
+| Fri, 03 Mar 2023 06:45:33 GMT | 想看🤔 <a href='http://movie.douban.com/subject/34884712/' target='_blank'>不要抬头</a>  |
+| Fri, 24 Feb 2023 08:07:56 GMT | 想读 <a href='https://book.douban.com/subject/3249247/' target='_blank'>高观点下的初等数学</a>  |
+| Wed, 22 Feb 2023 10:58:34 GMT | 想看🤔 <a href='http://movie.douban.com/subject/34610636/' target='_blank'>蚁人与黄蜂女：量子狂潮</a>  |
+| Wed, 22 Feb 2023 10:58:13 GMT | 在看👀 <a href='http://movie.douban.com/subject/27040807/' target='_blank'>斗罗大陆1</a> ⭐⭐⭐⭐ |
+| Wed, 22 Feb 2023 10:57:55 GMT | 在看👀 <a href='http://movie.douban.com/subject/35560094/' target='_blank'>斗破苍穹 年番</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

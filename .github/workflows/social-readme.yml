@@ -16,7 +16,7 @@ jobs:
         with:
           blog_rss_link: https://yuzhang.wang/atom.xml
           blog_limit: 6
-          blog_time_format: "%a, %d %b %Y %H:%M:%S %z"
+          blog_time_format: "%a, %d %b %Y"
           commit_message: Update readme rss by social-readme
           time_zone: "Asia/Shanghai"
 

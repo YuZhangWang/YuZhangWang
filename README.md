@@ -83,7 +83,7 @@ Frameworks and Tools:
 > - 合作邮箱<a href="mailto:YuZhangWang233@163.com">YuZhangWang233@163.com</a>   
 > - 个人博客[https://yuzhang.wang](https://yuzhang.wang)   
 > - 博客备份[YuZhangWang的领域](https://flowus.cn/yuzhangwang/share/7df66bdd-907c-4023-803c-b8c5cfe06d4a)   
-> - RSS订阅[https://yuzhang.wang/atom.xml](https://yuzhang.wang/rss2.xml)   
+> - RSS订阅[https://yuzhang.wang/rss2.xml](https://yuzhang.wang/rss2.xml)   
 
 
 <table width="100%" align="center" padding="0" margin="0">

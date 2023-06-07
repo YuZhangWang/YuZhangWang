@@ -97,19 +97,7 @@ Frameworks and Tools:
 
 <!-- START_SECTION:blog -->
 <!-- END_SECTION:blog -->
-</td>
-    
-<td valign="top" width="50%">
-**🤾‍♂️ <a href="https://yuzhang.wang/" target="_blank">Funny Soul</a>**
-
-<!-- START_SECTION:douban -->
-<!-- END_SECTION:douban -->
-</td>
 </tr>
-    
-<!-- START_SECTION:github-xxx -->
-<!-- END_SECTION:github-xxx -->
-
 </table>
 
 <!-- 各种平台联系方式 -->

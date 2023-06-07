@@ -90,10 +90,13 @@ Frameworks and Tools:
 > - 博客备份[YuZhangWang的领域](https://flowus.cn/yuzhangwang/share/7df66bdd-907c-4023-803c-b8c5cfe06d4a)   
 > - RSS订阅[https://yuzhang.wang/atom.xml](https://yuzhang.wang/atom.xml)   
 
+
+
 <table width="100%" align="center" padding="0" margin="0">
 <tr>
 <td valign="top" width="50%">
  🤹‍♀️ <a href="https://yuzhang.wang" target="_blank">Recent Blog</a> 
+  
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
@@ -104,11 +107,11 @@ Frameworks and Tools:
 | 2022-08-04T16:57:50.000Z | <a href='https://yuzhang.wang/120-binary-tree/' target='_blank'>遍历二叉树</a> |
 | 2022-08-04T16:04:50.000Z | <a href='https://yuzhang.wang/119-draft/' target='_blank'>吐槽《雪中》的文案</a> |
 <!-- END_SECTION:blog -->
-
 </td>
     
 <td valign="top" width="50%"> 
- 🤾‍♂️ <a href="https://yuzhang.wang" target="_blank">Funny Soul</a> 
+🤾‍♂️ <a href="https://yuzhang.wang" target="_blank">Funny Soul</a> 
+    
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
@@ -116,10 +119,12 @@ Frameworks and Tools:
 <!-- END_SECTION:douban -->
 </td>
 </tr>
+    
 <!-- START_SECTION:github-xxx -->
 <!-- END_SECTION:github-xxx -->
-
+    
 </table>
+
 
 <!-- 各种平台联系方式 -->
 ## 📬 Get In Touch

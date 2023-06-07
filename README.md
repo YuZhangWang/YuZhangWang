@@ -111,12 +111,7 @@ Frameworks and Tools:
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2021-09-21 | 看过😎 <a href='http://movie.douban.com/subject/26848645/' target='_blank'>将夜</a>  |
-| 2021-09-21 | 看过😎 <a href='http://movie.douban.com/subject/30417132/' target='_blank'>将夜2</a>  |
-| 2021-09-21 | 读过 <a href='https://book.douban.com/subject/6435970/' target='_blank'>自然哲学的数学原理</a>  |
-| 2021-09-21 | 读过 <a href='https://book.douban.com/subject/1034282/' target='_blank'>时间简史</a>  |
-| 2021-09-21 | 读过 <a href='https://book.douban.com/subject/11524204/' target='_blank'>围城</a>  |
-| 2021-09-21 | 读过 <a href='https://book.douban.com/subject/5363767/' target='_blank'>三体Ⅲ</a>  |
+
 <!-- END_SECTION:douban -->
 </td>
 </tr>

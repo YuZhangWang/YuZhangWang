@@ -13,7 +13,7 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: YuZhangWang/social-readme@main
+      - uses: YuZhangWang/social-readme@master
         with:
           blog_rss_link: https://yuzhang.wang/atom.xml
           blog_limit: 6

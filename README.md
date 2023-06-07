@@ -98,25 +98,25 @@ Frameworks and Tools:
     <td>
         <!-- StackOverFlow -->
         <a href="https://stackoverflow.com/users/16347524/yuzhangwang" target="_blank"> 
-        <img src="https://img.shields.io/badge/StackOverFlow-YuZhangWang-%23F48024">
+        <img src="https://img.shields.io/badge/StackOverFlow-YuZhangWang-%23F48024?style=for-the-badge">
         </a>
     </td>
     <td>
         <!-- CSDN -->
         <a href="https://blog.csdn.net/qq_43616274" target="_blank"> 
-        <img src="https://img.shields.io/badge/CSDN-YuZhangWang-%23FC5531">
+        <img src="https://img.shields.io/badge/CSDN-YuZhangWang-%23FC5531?style=for-the-badge">
         </a>
     </td>
     <td>
         <!-- 掘金 -->
     <a href="https://juejin.cn/user/4476867080633319" target="_blank"> 
-    <img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-YuZhangWang-%231E80FF">
+    <img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-YuZhangWang-%231E80FF?style=for-the-badge">
     </a>
     </td>
     <td>
         <!-- 知乎 -->
         <a href="https://www.zhihu.com/people/YuZhangWang" target="_blank"> 
-        <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-YuZhangWang-%230066FF">
+        <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-YuZhangWang-%230066FF?style=for-the-badge">
         </a>
     </td>
   </tr>
@@ -124,25 +124,25 @@ Frameworks and Tools:
     <td>
         <!-- Github -->
         <a href="https://github.com/YuZhangWang" target="_blank"> 
-        <img src="https://img.shields.io/badge/Github-YuZhangWang-%2324292F">
+        <img src="https://img.shields.io/badge/Github-YuZhangWang-%2324292F?style=for-the-badge">
         </a>
     </td>
     <td>
         <!-- Gitee -->
         <a href="https://gitee.com/YuZhangWang233" target="_blank"> 
-        <img src="https://img.shields.io/badge/Gitee-YuZhangWang-%23C71D23">
+        <img src="https://img.shields.io/badge/Gitee-YuZhangWang-%23C71D23?style=for-the-badge">
         </a>
     </td>
     <td>
         <!-- LeetCode -->
         <a href="https://leetcode-cn.com/u/yuzhangwang/" target="_blank"> 
-        <img src="https://img.shields.io/badge/LeetCode-YuZhangWang-%23FFA119">
+        <img src="https://img.shields.io/badge/LeetCode-YuZhangWang-%23FFA119?style=for-the-badge">
         </a>
      </td>
     <td>
         <!-- bilibili -->
         <a href="https://space.bilibili.com/19474542" target="_blank"> 
-        <img src="https://img.shields.io/badge/bilibili-YuZhangWang-%23FB7299">
+        <img src="https://img.shields.io/badge/bilibili-YuZhangWang-%23FB7299?style=for-the-badge">
         </a>
     </td>
   </tr>
@@ -150,25 +150,25 @@ Frameworks and Tools:
     <td>
         <!-- 酷安 -->
         <a href="http://www.coolapk.com/u/1670757" target="_blank"> 
-        <img src="https://img.shields.io/badge/%E9%85%B7%E5%AE%89-YuZhangWang-%2311C273">
+        <img src="https://img.shields.io/badge/%E9%85%B7%E5%AE%89-YuZhangWang-%2311C273?style=for-the-badge">
         </a>
      </td>
     <td>
         <!-- 网易云 -->
         <a href="https://music.163.com/#/user/home?id=340104770" target="_blank"> 
-        <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91-YuZhangWang-%23DF001B">
+        <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91-YuZhangWang-%23DF001B?style=for-the-badge">
         </a>
     </td>
     <td>
         <!-- QQ -->
         <a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/qrcode_1615295622746.jpg" target="_blank"> 
-        <img src="https://img.shields.io/badge/QQ-YuZhangWang-%2350BCFE">
+        <img src="https://img.shields.io/badge/QQ-YuZhangWang-%2350BCFE?style=for-the-badge">
         </a>
     </td>
     <td>
         <!-- 微信 -->
         <a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/mmqrcode1615295634051.png" target="_blank"> 
-        <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-YuZhangWang-%231AAD19">
+        <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-YuZhangWang-%231AAD19?style=for-the-badge">
         </a>
     </td>
   </tr>

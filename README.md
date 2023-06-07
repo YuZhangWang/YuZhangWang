@@ -76,7 +76,7 @@ Frameworks and Tools:
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910012045.png" alt="Maven"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910012209.png" alt="Visual-Studio-Code" /></code>
 
-<!-- 关于我的一些生活信息 -->
+<!-- 关于我的一些信息 -->
 ## 🤵 About Me
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/202109261325617.gif" width="150"/> 

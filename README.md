@@ -96,6 +96,12 @@ Frameworks and Tools:
 🤹‍♀️ <a href="https://yuzhang.wang" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
+* <a href='https://yuzhang.wang/124-information-theory/' target='_blank'>信息论与编码</a> - 2023-05-29
+* <a href='https://yuzhang.wang/123-chart-creation/' target='_blank'>图表的创建和动态修改测试</a> - 2023-05-14
+* <a href='https://yuzhang.wang/122-cannon-fodder/' target='_blank'>记录一个我遇到的考研炮灰</a> - 2022-11-12
+* <a href='https://yuzhang.wang/121-northern-memorial/' target='_blank'>后出师表</a> - 2022-11-02
+* <a href='https://yuzhang.wang/120-binary-tree/' target='_blank'>遍历二叉树</a> - 2022-08-04
+* <a href='https://yuzhang.wang/119-draft/' target='_blank'>吐槽《雪中》的文案</a> - 2022-08-04
 <!-- END_SECTION:blog -->
 </tr>
 </table>

@@ -21,7 +21,7 @@
   <tr>
     <td><a href="https://github.com/zxpsuper/IT-blacklist"><img src="https://img.shields.io/badge/link-IT--blacklist-red?style=for-the-badge" alt="IT-blacklist" /></a></td>
     <td><a href="https://github.com/996icu/996.ICU/tree/master/whitelist"><img src="https://img.shields.io/badge/link-whitelist-success?style=for-the-badge" alt="whitelist" /></a></td>
-    <td><a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://camo.githubusercontent.com/09024be9657c958cef4715aa7fc66bfcb11dc98be2f43763e8bf9a2742716f0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4e504c2532302854686525323039393625323050726f686962697465642532304c6963656e7365292d626c75652e737667?style=for-the-badge" alt="996.icu" /></a></td>
+    <td><a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue?style=for-the-badge" alt="996.icu" /></a></td>
     <td><a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg?style=for-the-badge" alt="996.icu" /></a></td>
     <td><a href="https://github.com/YuZhangWang/YuZhangWang/blob/master/LICENSE"><img src="https://img.shields.io/github/license/onlyGuo/nginx-gui.svg?style=for-the-badge"></a></td>
   </tr>

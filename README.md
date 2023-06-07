@@ -98,12 +98,12 @@ Frameworks and Tools:
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
-| 2023-05-29T00:15:22.000Z | <a href='https://yuzhang.wang/124-information-theory/' target='_blank'>信息论与编码</a> |
-| 2023-05-14T00:00:00.000Z | <a href='https://yuzhang.wang/123-chart-creation/' target='_blank'>图表的创建和动态修改测试</a> |
-| 2022-11-12T03:59:50.000Z | <a href='https://yuzhang.wang/122-cannon-fodder/' target='_blank'>记录一个我遇到的考研炮灰</a> |
-| 2022-11-02T03:59:50.000Z | <a href='https://yuzhang.wang/121-northern-memorial/' target='_blank'>后出师表</a> |
-| 2022-08-04T16:57:50.000Z | <a href='https://yuzhang.wang/120-binary-tree/' target='_blank'>遍历二叉树</a> |
-| 2022-08-04T16:04:50.000Z | <a href='https://yuzhang.wang/119-draft/' target='_blank'>吐槽《雪中》的文案</a> |
+| 2023-05-29 | <a href='https://yuzhang.wang/124-information-theory/' target='_blank'>信息论与编码</a> |
+| 2023-05-14 | <a href='https://yuzhang.wang/123-chart-creation/' target='_blank'>图表的创建和动态修改测试</a> |
+| 2022-11-12 | <a href='https://yuzhang.wang/122-cannon-fodder/' target='_blank'>记录一个我遇到的考研炮灰</a> |
+| 2022-11-02 | <a href='https://yuzhang.wang/121-northern-memorial/' target='_blank'>后出师表</a> |
+| 2022-08-04 | <a href='https://yuzhang.wang/120-binary-tree/' target='_blank'>遍历二叉树</a> |
+| 2022-08-04 | <a href='https://yuzhang.wang/119-draft/' target='_blank'>吐槽《雪中》的文案</a> |
 <!-- END_SECTION:blog -->
 </tr>
 </table>

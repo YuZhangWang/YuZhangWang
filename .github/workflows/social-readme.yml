@@ -16,9 +16,9 @@ jobs:
         with:
           blog_rss_link: https://yuzhang.wang/atom.xml
           blog_limit: 6
-          douban_name: YuZhangWang 
+          douban_name: 179948994
           douban_limit: 6
-          blog_time_format: "%d %Y"
+          blog_time_format: "%a, %d %b %Y %H:%M:%S %z"
           commit_message: Update readme rss by social-readme
           time_zone: "Asia/Shanghai"
 

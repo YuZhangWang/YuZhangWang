@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: YuZhangWang/social-readme@main
         with:
-          blog_rss_link: https://yuzhang.wang/atom.xml
+          blog_rss_link: https://yuzhang.wang/rss2.xml
           blog_limit: 6
           douban_name: 246976541
           douban_limit: 6

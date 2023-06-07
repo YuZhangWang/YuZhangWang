@@ -93,7 +93,7 @@ Frameworks and Tools:
 <table width="100%" align="center" padding="0" margin="0">
 <tr>
 <td valign="top" width="50%">
-<strong> 🤹‍♀️ <a href="https://yuzhang.wang" target="_blank">Recent Blog</a> </strong>
+ 🤹‍♀️ <a href="https://yuzhang.wang" target="_blank">Recent Blog</a> 
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
@@ -108,7 +108,7 @@ Frameworks and Tools:
 </td>
     
 <td valign="top" width="50%"> 
-<strong> 🤾‍♂️ <a href="https://yuzhang.wang" target="_blank">Funny Soul</a> </strong>
+ 🤾‍♂️ <a href="https://yuzhang.wang" target="_blank">Funny Soul</a> 
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |

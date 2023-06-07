@@ -78,10 +78,6 @@ Frameworks and Tools:
 
 <!-- 关于我的一些信息 -->
 ## 🤵 About Me
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/202109261325617.gif" width="150"/> 
-</div>
-</br>
 
 > - YuZhangWang(豫章望)
 > - 励志成为一名算法工程师，研究深度学习、机器学习，达到算法工程落地的要求，同时前端后端掌握一些内容   

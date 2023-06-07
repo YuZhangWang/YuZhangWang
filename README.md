@@ -90,6 +90,35 @@ Frameworks and Tools:
 > - 博客备份[YuZhangWang的领域](https://flowus.cn/yuzhangwang/share/7df66bdd-907c-4023-803c-b8c5cfe06d4a)   
 > - RSS订阅[https://yuzhang.wang/atom.xml](https://yuzhang.wang/atom.xml)   
 
+<table width="100%" align="center">
+<tr>
+<td valign="top" width="50%">
+
+#### 🤹‍♀️ <a href="https://yuzhang.wang/" target="_blank">Recent Blog</a>
+
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
+</td>
+<td valign="top" width="50%">
+
+#### 🤾‍♂️ <a href="https://yuzhang.wang/" target="_blank">Funny Soul</a>
+
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->
+</td>
+</tr>
+<tr>
+<td valign="top" width="100%" colspan="2">
+
+#### 💻 <a href="https://github.com/YuZhangWang" target="_blank">Recent Activity</a>
+
+<!-- START_SECTION:github -->
+<!-- END_SECTION:github -->
+
+</td>
+</tr>
+</table>
+
 <!-- 各种平台联系方式 -->
 ## 📬 Get In Touch
 <div align="center">

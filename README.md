@@ -5,7 +5,6 @@
 </div>
 </br>
 
-
 <!-- 反996运动 https://996.icu  https://github.com/996icu -->
 <div align="center">
     <strong>Guido van Rossum, Python之父:<a href="https://twitter.com/gvanrossum/status/1111628076801236993">"996"工作制是不人道的.</a></strong>

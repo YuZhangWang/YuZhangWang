@@ -109,12 +109,12 @@ Frameworks and Tools:
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-06-07 | 看过😎 <a href='http://movie.douban.com/subject/26959697/' target='_blank'>黑亚当</a>  |
-| 2023-06-07 | 看过😎 <a href='http://movie.douban.com/subject/34884712/' target='_blank'>不要抬头</a>  |
-| 2023-06-07 | 看过😎 <a href='http://movie.douban.com/subject/33455421/' target='_blank'>疾速追杀4</a>  |
-| 2023-06-07 | 看过😎 <a href='http://movie.douban.com/subject/30304994/' target='_blank'>奇异博士2：疯狂多元宇宙</a>  |
-| 2023-06-07 | 看过😎 <a href='http://movie.douban.com/subject/30167997/' target='_blank'>黑豹2</a>  |
-| 2023-06-07 | 看过😎 <a href='http://movie.douban.com/subject/34477861/' target='_blank'>雷神4：爱与雷霆</a>  |
+| 2023-06-07 | 想看🤔 <a href='http://movie.douban.com/subject/35511391/' target='_blank'>好兆头 第二季</a>  |
+| 2023-06-07 | 想看🤔 <a href='http://movie.douban.com/subject/35609387/' target='_blank'>猎魔人 第三季</a>  |
+| 2023-06-07 | 想看🤔 <a href='http://movie.douban.com/subject/35284245/' target='_blank'>秘密入侵</a>  |
+| 2023-06-07 | 在看👀 <a href='http://movie.douban.com/subject/35417825/' target='_blank'>石纪元 第三季</a>  |
+| 2023-06-07 | 在看👀 <a href='http://movie.douban.com/subject/35952106/' target='_blank'>物理魔法使马修</a>  |
+| 2023-06-07 | 在看👀 <a href='http://movie.douban.com/subject/36129263/' target='_blank'>天国大魔境</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

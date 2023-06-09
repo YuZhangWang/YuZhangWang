@@ -47,7 +47,7 @@
 <table>
 <tr>
 <td>
-Languages:
+:shipit: Languages:
 </td>
 <td>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011149.png" alt="Python" /></code>
@@ -65,7 +65,7 @@ Languages:
     
 <tr>
 <td>
-Frameworks and Tools:
+:shipit: Frameworks and Tools:
 </td>
 <td>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011508.png" alt="Pycharm" /></code>

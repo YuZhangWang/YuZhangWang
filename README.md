@@ -32,14 +32,35 @@
 
 <!-- 关于我的一些编程信息,例如Github状态,Github仓库内编程语言使用情况统计,常用的编程语言,常用的编程框架和IDE工具,Github粉丝点赞访客 -->
 ## 🏆 Github Status
+<div align="center">
+<table>
+    <tr>
+        <!-- Github状态 -->
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+            <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" />            
+            </a>
+            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+            <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" />
+            </a>
+        </td>
+        <!-- Github仓库内编程语言使用情况统计 -->
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+            <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" />
+            </a>
+            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+            <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only"/>
+            </a>
+        </td>
+    </tr>
+</table>
+</div>
+
 <!-- Light Mode -->
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" />
-</a>
+
+
 </div>
 
 <!-- Dark Mode -->

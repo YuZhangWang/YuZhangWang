@@ -36,7 +36,7 @@
 <table>
     <tr>
         <!-- Github状态 -->
-        <td><img height="166px" src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="my github stats"/></td>
+        <td><img height="166px" src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="my github stats"/></td>
         <!-- Github仓库内编程语言使用情况统计 -->
         <td><img height="166px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang&theme=dark&layout=compact" alt="my github stats"/></td>
     </tr>

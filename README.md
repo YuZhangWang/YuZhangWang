@@ -43,8 +43,13 @@
 </table>
 </div>
 
-<!-- 常用的编程语言 -->
+<!-- 常用的编程语言和常用的编程框架和IDE工具 -->
+<table>
+<tr>
+<td>
 Languages:
+</td>
+<td>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011149.png" alt="Python" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011212.png" alt="CPP" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011234.png" alt="C" /></code>
@@ -55,9 +60,14 @@ Languages:
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011412.png" alt="Bash" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011445.png" alt="Swift" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011430.png" alt="Java" /></code>
-
-<!-- 常用的编程框架和IDE工具 -->
+</td>
+</tr>
+    
+<tr>
+<td>
 Frameworks and Tools:
+</td>
+<td>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011508.png" alt="Pycharm" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011646.png" alt="Anaconda" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011737.png" alt="Opencv"></code>
@@ -76,6 +86,9 @@ Frameworks and Tools:
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910012027.png" alt="IDEA"/></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910012045.png" alt="Maven"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910012209.png" alt="Visual-Studio-Code" /></code>
+</td>
+</tr>
+</table>
 
 <!-- 关于我的一些信息 -->
 ## 🤵 About Me

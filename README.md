@@ -87,7 +87,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" alt="Opencv"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.sv" alt="Flask"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011838.png" alt="Clion"/></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original-wordmark.svg" alt="CMake"/></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js"/></code>

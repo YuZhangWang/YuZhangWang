@@ -140,8 +140,8 @@
 | 2023-06-18 | 看过😎 <a href='http://movie.douban.com/subject/36017435/' target='_blank'>凡人修仙传：初入星海</a>  |
 | 2023-06-18 | 看过😎 <a href='http://movie.douban.com/subject/35882624/' target='_blank'>凡人修仙传：再别天南</a>  |
 | 2023-06-18 | 看过😎 <a href='http://movie.douban.com/subject/35640039/' target='_blank'>凡人修仙传：魔道争锋</a>  |
-| 2023-06-18 | 看过😎 <a href='http://movie.douban.com/subject/10549251/' target='_blank'>疑犯追踪 第二季</a> ⭐⭐⭐⭐⭐ |
 | 2023-06-18 | 想看🤔 <a href='http://movie.douban.com/subject/10604086/' target='_blank'>封神第一部</a>  |
+| 2023-06-18 | 想看🤔 <a href='http://movie.douban.com/subject/3011317/' target='_blank'>闪电侠</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

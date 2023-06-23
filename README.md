@@ -121,12 +121,12 @@
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
-| 2023-05-29 | <a href='https://yuzhang.wang/124-information-theory/' target='_blank'>信息论与编码</a> |
-| 2023-05-13 | <a href='https://yuzhang.wang/123-chart-creation/' target='_blank'>图表的创建和动态修改测试</a> |
-| 2022-11-11 | <a href='https://yuzhang.wang/122-cannon-fodder/' target='_blank'>记录一个我遇到的考研炮灰</a> |
-| 2022-11-01 | <a href='https://yuzhang.wang/121-northern-memorial/' target='_blank'>后出师表</a> |
-| 2022-08-04 | <a href='https://yuzhang.wang/119-draft/' target='_blank'>吐槽《雪中》的文案</a> |
-| 2022-08-04 | <a href='https://yuzhang.wang/120-binary-tree/' target='_blank'>遍历二叉树</a> |
+| 2023-06-08 | <a href='https://yuzhang.wang/134-past-pesent-future/' target='_blank'>过去 现在 未来</a> |
+| 2023-06-07 | <a href='https://yuzhang.wang/133-best-template/' target='_blank'>你应该为自己创建一个Github仓库模板</a> |
+| 2023-06-06 | <a href='https://yuzhang.wang/132-github-introduction/' target='_blank'>如何拥有一个Awesome的Github介绍页面</a> |
+| 2023-06-05 | <a href='https://yuzhang.wang/131-remote-friend-linking/' target='_blank'>Butterfly主题中远程友链实操</a> |
+| 2023-06-04 | <a href='https://yuzhang.wang/130-domain-name-issue/' target='_blank'>域名的小问题导致网站关闭了很久</a> |
+| 2023-06-03 | <a href='https://yuzhang.wang/129-genshin-progress-planning/' target='_blank'>原神进度以及未来规划</a> |
 <!-- END_SECTION:blog -->
 </td>
     

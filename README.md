@@ -136,12 +136,12 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-06-18 | 读过 <a href='https://book.douban.com/subject/4192766/' target='_blank'>凡人修仙传（1-10）</a>  |
-| 2023-06-18 | 看过😎 <a href='http://movie.douban.com/subject/36017435/' target='_blank'>凡人修仙传：初入星海</a>  |
-| 2023-06-18 | 看过😎 <a href='http://movie.douban.com/subject/35882624/' target='_blank'>凡人修仙传：再别天南</a>  |
-| 2023-06-18 | 看过😎 <a href='http://movie.douban.com/subject/35640039/' target='_blank'>凡人修仙传：魔道争锋</a>  |
-| 2023-06-18 | 想看🤔 <a href='http://movie.douban.com/subject/10604086/' target='_blank'>封神第一部</a>  |
-| 2023-06-18 | 想看🤔 <a href='http://movie.douban.com/subject/3011317/' target='_blank'>闪电侠</a>  |
+| 2023-06-24 | 想看🤔 <a href='http://movie.douban.com/subject/35275659/' target='_blank'>望道</a>  |
+| 2023-06-24 | 看过😎 <a href='http://movie.douban.com/subject/32579501/' target='_blank'>反贪风暴5：最终章</a>  |
+| 2023-06-24 | 看过😎 <a href='http://movie.douban.com/subject/27150277/' target='_blank'>生无可恋的奥托</a>  |
+| 2023-06-24 | 看过😎 <a href='http://movie.douban.com/subject/35312437/' target='_blank'>奇迹·笨小孩</a>  |
+| 2023-06-24 | 想看🤔 <a href='http://movie.douban.com/subject/34880302/' target='_blank'>人潮汹涌</a>  |
+| 2023-06-24 | 想看🤔 <a href='http://movie.douban.com/subject/26634250/' target='_blank'>变形金刚：超能勇士崛起</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

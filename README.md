@@ -119,7 +119,7 @@
 🤹‍♀️  <a href="https://yuzhang.wang" target="_blank">Recent Blog</a> 
   
 <!-- START_SECTION:blog -->
-| 日期 | 标题 |
+| Date | Title |
 | :-: | :---: |
 | 2023-06-08 | <a href='https://yuzhang.wang/134-past-pesent-future/' target='_blank'>过去 现在 未来</a> |
 | 2023-06-07 | <a href='https://yuzhang.wang/133-best-template/' target='_blank'>你应该为自己创建一个Github仓库模板</a> |
@@ -138,7 +138,7 @@
 🤾‍♂️ <a href="https://yuzhang.wang" target="_blank">Funny Soul</a> 
     
 <!-- START_SECTION:douban -->
-| 日期 | 标题 |
+| Date | Title |
 | :-: | :---: |
 | 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/34949767/' target='_blank'>叛逆者</a> ⭐⭐⭐ |
 | 2023-07-03 | 玩过 <a href='http://www.douban.com/game/26655376/' target='_blank'>王者荣耀</a> ⭐ |

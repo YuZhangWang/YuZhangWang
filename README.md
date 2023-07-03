@@ -140,16 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/34949767/' target='_blank'>叛逆者</a> ⭐⭐⭐ |
-| 2023-07-03 | 玩过 <a href='http://www.douban.com/game/26655376/' target='_blank'>王者荣耀</a> ⭐ |
-| 2023-07-03 | 想看🤔 <a href='http://movie.douban.com/subject/1300436/' target='_blank'>周末情人</a>  |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/1455979/' target='_blank'>墨攻</a> ⭐⭐⭐⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/3734112/' target='_blank'>风声</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/10546747/' target='_blank'>法官老爹</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/35505542/' target='_blank'>贞伊</a> ⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/30299515/' target='_blank'>釜山行2：半岛</a> ⭐ |
-| 2023-07-03 | 想看🤔 <a href='http://movie.douban.com/subject/35606534/' target='_blank'>剧场版 关于我转生变成史莱姆这档事 红莲之绊篇</a>  |
-| 2023-07-03 | 想看🤔 <a href='http://movie.douban.com/subject/35904142/' target='_blank'>银河英雄传说 Die Neue These 策谋 第1章</a>  |
+| 2023-07-03 | 玩过 <a href='http://www.douban.com/game/33438620/' target='_blank'>和平精英</a> ⭐ |
+| 2023-07-03 | 玩过 <a href='http://www.douban.com/game/26988657/' target='_blank'>元气骑士 Soul Knight</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/10726963/' target='_blank'>好家伙</a> ⭐⭐⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/1457218/' target='_blank'>夏洛特的网</a> ⭐⭐⭐⭐ |
+| 2023-07-03 | 想看🤔 <a href='http://movie.douban.com/subject/3914513/' target='_blank'>马戏之王</a>  |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/3035147/' target='_blank'>赌博默示录</a> ⭐⭐⭐⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/27098632/' target='_blank'>切尔诺贝利</a> ⭐⭐⭐⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/1919245/' target='_blank'>鬼妈妈</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/25848328/' target='_blank'>最后生还者 第一季</a> ⭐⭐⭐⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/1296384/' target='_blank'>心理游戏</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

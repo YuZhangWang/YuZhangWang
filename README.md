@@ -127,6 +127,10 @@
 | 2023-06-05 | <a href='https://yuzhang.wang/131-remote-friend-linking/' target='_blank'>Butterfly主题中远程友链实操</a> |
 | 2023-06-04 | <a href='https://yuzhang.wang/130-domain-name-issue/' target='_blank'>域名的小问题导致网站关闭了很久</a> |
 | 2023-06-03 | <a href='https://yuzhang.wang/129-genshin-progress-planning/' target='_blank'>原神进度以及未来规划</a> |
+| 2023-06-02 | <a href='https://yuzhang.wang/128-exam-935/' target='_blank'>考研935记忆点</a> |
+| 2023-06-01 | <a href='https://yuzhang.wang/127-exam-politics/' target='_blank'>考研政治记忆点</a> |
+| 2023-05-31 | <a href='https://yuzhang.wang/126-exam-mathematics/' target='_blank'>考研数学记忆点</a> |
+| 2023-05-30 | <a href='https://yuzhang.wang/125-aopic-dermatitis/' target='_blank'>原来我的皮肤生病了</a> |
 <!-- END_SECTION:blog -->
 </td>
     
@@ -136,12 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-06-24 | 想看🤔 <a href='http://movie.douban.com/subject/35275659/' target='_blank'>望道</a>  |
-| 2023-06-24 | 看过😎 <a href='http://movie.douban.com/subject/32579501/' target='_blank'>反贪风暴5：最终章</a>  |
-| 2023-06-24 | 看过😎 <a href='http://movie.douban.com/subject/27150277/' target='_blank'>生无可恋的奥托</a>  |
-| 2023-06-24 | 看过😎 <a href='http://movie.douban.com/subject/35312437/' target='_blank'>奇迹·笨小孩</a>  |
-| 2023-06-24 | 想看🤔 <a href='http://movie.douban.com/subject/34880302/' target='_blank'>人潮汹涌</a>  |
-| 2023-06-24 | 想看🤔 <a href='http://movie.douban.com/subject/26634250/' target='_blank'>变形金刚：超能勇士崛起</a>  |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/34949767/' target='_blank'>叛逆者</a> ⭐⭐⭐ |
+| 2023-07-03 | 玩过 <a href='http://www.douban.com/game/26655376/' target='_blank'>王者荣耀</a> ⭐ |
+| 2023-07-03 | 想看🤔 <a href='http://movie.douban.com/subject/1300436/' target='_blank'>周末情人</a>  |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/1455979/' target='_blank'>墨攻</a> ⭐⭐⭐⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/3734112/' target='_blank'>风声</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/10546747/' target='_blank'>法官老爹</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/35505542/' target='_blank'>贞伊</a> ⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/30299515/' target='_blank'>釜山行2：半岛</a> ⭐ |
+| 2023-07-03 | 想看🤔 <a href='http://movie.douban.com/subject/35606534/' target='_blank'>剧场版 关于我转生变成史莱姆这档事 红莲之绊篇</a>  |
+| 2023-07-03 | 想看🤔 <a href='http://movie.douban.com/subject/35904142/' target='_blank'>银河英雄传说 Die Neue These 策谋 第1章</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

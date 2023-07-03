@@ -116,7 +116,7 @@
 <table width="100%" align="center" padding="0" margin="0">
 <tr>
 <td valign="top" width="50%">
-🤹‍♀️ <a href="https://yuzhang.wang" target="_blank">Recent Blog</a> 
+🤹‍♀️  <a href="https://yuzhang.wang" target="_blank">Recent Blog</a> 
   
 <!-- START_SECTION:blog -->
 | Date | Title |

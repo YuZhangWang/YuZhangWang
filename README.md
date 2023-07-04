@@ -140,16 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-07-03 | 玩过 <a href='http://www.douban.com/game/33438620/' target='_blank'>和平精英</a> ⭐ |
-| 2023-07-03 | 玩过 <a href='http://www.douban.com/game/26988657/' target='_blank'>元气骑士 Soul Knight</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/10726963/' target='_blank'>好家伙</a> ⭐⭐⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/1457218/' target='_blank'>夏洛特的网</a> ⭐⭐⭐⭐ |
-| 2023-07-03 | 想看🤔 <a href='http://movie.douban.com/subject/3914513/' target='_blank'>马戏之王</a>  |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/3035147/' target='_blank'>赌博默示录</a> ⭐⭐⭐⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/27098632/' target='_blank'>切尔诺贝利</a> ⭐⭐⭐⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/1919245/' target='_blank'>鬼妈妈</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/25848328/' target='_blank'>最后生还者 第一季</a> ⭐⭐⭐⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/1296384/' target='_blank'>心理游戏</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-03 | 在看👀 <a href='http://movie.douban.com/subject/35724630/' target='_blank'>恶鬼</a> ⭐⭐⭐⭐ |
+| 2023-07-03 | 在看👀 <a href='http://movie.douban.com/subject/35460731/' target='_blank'>无职转生Ⅱ ～到了异世界就拿出真本事～</a> ⭐⭐⭐ |
+| 2023-07-03 | 在看👀 <a href='http://movie.douban.com/subject/35573308/' target='_blank'>绝世网红</a> ⭐⭐⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/35371261/' target='_blank'>铃芽之旅</a> ⭐⭐⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/6041199/' target='_blank'>太极侠</a> ⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/2225321/' target='_blank'>地球停转之日</a> ⭐⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/1292962/' target='_blank'>黑金</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/1300498/' target='_blank'>百变星君</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/3754946/' target='_blank'>锦衣卫</a> ⭐⭐⭐ |
+| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/1428602/' target='_blank'>杀破狼</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

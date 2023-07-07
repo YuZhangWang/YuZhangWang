@@ -140,16 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-07-03 | 在看👀 <a href='http://movie.douban.com/subject/35724630/' target='_blank'>恶鬼</a> ⭐⭐⭐⭐ |
-| 2023-07-03 | 在看👀 <a href='http://movie.douban.com/subject/35460731/' target='_blank'>无职转生Ⅱ ～到了异世界就拿出真本事～</a> ⭐⭐⭐ |
-| 2023-07-03 | 在看👀 <a href='http://movie.douban.com/subject/35573308/' target='_blank'>绝世网红</a> ⭐⭐⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/35371261/' target='_blank'>铃芽之旅</a> ⭐⭐⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/6041199/' target='_blank'>太极侠</a> ⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/2225321/' target='_blank'>地球停转之日</a> ⭐⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/1292962/' target='_blank'>黑金</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/1300498/' target='_blank'>百变星君</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/3754946/' target='_blank'>锦衣卫</a> ⭐⭐⭐ |
-| 2023-07-03 | 看过😎 <a href='http://movie.douban.com/subject/1428602/' target='_blank'>杀破狼</a> ⭐⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/31673321/' target='_blank'>裏切り者のレクイエム</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/34908780/' target='_blank'>青山白云</a> ⭐⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/34887656/' target='_blank'>你的答案</a> ⭐⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/33424679/' target='_blank'>广东十年爱情故事</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/27169123/' target='_blank'>像我这样的人</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/34889928/' target='_blank'>少年</a> ⭐⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/30193801/' target='_blank'>没有理由</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/35322787/' target='_blank'>红黑</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/35212926/' target='_blank'>Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/35598374/' target='_blank'>心恋</a> ⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

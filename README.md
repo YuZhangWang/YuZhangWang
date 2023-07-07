@@ -140,16 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/31673321/' target='_blank'>裏切り者のレクイエム</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/34908780/' target='_blank'>青山白云</a> ⭐⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/34887656/' target='_blank'>你的答案</a> ⭐⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/33424679/' target='_blank'>广东十年爱情故事</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/27169123/' target='_blank'>像我这样的人</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/34889928/' target='_blank'>少年</a> ⭐⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/30193801/' target='_blank'>没有理由</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/35322787/' target='_blank'>红黑</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/35212926/' target='_blank'>Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/35598374/' target='_blank'>心恋</a> ⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/24757003/' target='_blank'>Ocean Blue（通常盤）</a> ⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/35150344/' target='_blank'>永远的奥特曼</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/4301841/' target='_blank'>Butter-Fly</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/26809367/' target='_blank'>君の名は。</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/3732440/' target='_blank'>Rhythm of My Heart</a> ⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/6847728/' target='_blank'>Imaginaerum</a> ⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/25936244/' target='_blank'>unravel</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/35278170/' target='_blank'>劇場版「進撃の巨人」Season2 ～覚醒の咆哮～ 特典CD</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/25918149/' target='_blank'>渺小的全貌纪录</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/33455518/' target='_blank'>Kingdom of One</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

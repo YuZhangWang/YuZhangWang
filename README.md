@@ -140,6 +140,8 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-07-11 | 想看🤔 <a href='http://movie.douban.com/subject/36035676/' target='_blank'>长安三万里</a>  |
+| 2023-07-11 | 看过😎 <a href='http://movie.douban.com/subject/35013359/' target='_blank'>扫毒3：人在天涯</a> ⭐⭐⭐ |
 | 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/24757003/' target='_blank'>Ocean Blue（通常盤）</a> ⭐⭐⭐ |
 | 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/35150344/' target='_blank'>永远的奥特曼</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/4301841/' target='_blank'>Butter-Fly</a> ⭐⭐⭐⭐⭐ |
@@ -148,8 +150,6 @@
 | 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/6847728/' target='_blank'>Imaginaerum</a> ⭐⭐⭐ |
 | 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/25936244/' target='_blank'>unravel</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/35278170/' target='_blank'>劇場版「進撃の巨人」Season2 ～覚醒の咆哮～ 特典CD</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/25918149/' target='_blank'>渺小的全貌纪录</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/33455518/' target='_blank'>Kingdom of One</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

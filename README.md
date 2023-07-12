@@ -140,16 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-07-11 | 想看🤔 <a href='http://movie.douban.com/subject/36035676/' target='_blank'>长安三万里</a>  |
-| 2023-07-11 | 看过😎 <a href='http://movie.douban.com/subject/35013359/' target='_blank'>扫毒3：人在天涯</a> ⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/24757003/' target='_blank'>Ocean Blue（通常盤）</a> ⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/35150344/' target='_blank'>永远的奥特曼</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/4301841/' target='_blank'>Butter-Fly</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/26809367/' target='_blank'>君の名は。</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/3732440/' target='_blank'>Rhythm of My Heart</a> ⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/6847728/' target='_blank'>Imaginaerum</a> ⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/25936244/' target='_blank'>unravel</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-07 | 听过😋 <a href='https://music.douban.com/subject/35278170/' target='_blank'>劇場版「進撃の巨人」Season2 ～覚醒の咆哮～ 特典CD</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-11 | 看过😎 <a href='http://movie.douban.com/subject/35765350/' target='_blank'>咒术回战 第二季</a> ⭐⭐⭐ |
+| 2023-07-11 | 看过😎 <a href='http://movie.douban.com/subject/35724630/' target='_blank'>恶鬼</a> ⭐⭐⭐ |
+| 2023-07-11 | 看过😎 <a href='http://movie.douban.com/subject/35460731/' target='_blank'>无职转生Ⅱ ～到了异世界就拿出真本事～</a> ⭐ |
+| 2023-07-11 | 看过😎 <a href='http://movie.douban.com/subject/36129263/' target='_blank'>天国大魔境</a> ⭐⭐⭐⭐ |
+| 2023-07-11 | 看过😎 <a href='http://movie.douban.com/subject/35952106/' target='_blank'>物理魔法使马修</a> ⭐⭐ |
+| 2023-07-11 | 看过😎 <a href='http://movie.douban.com/subject/35573308/' target='_blank'>绝世网红</a> ⭐ |
+| 2023-07-11 | 想看🤔 <a href='http://movie.douban.com/subject/35807273/' target='_blank'>犯罪都市3</a>  |
+| 2023-07-11 | 在看👀 <a href='http://movie.douban.com/subject/36181414/' target='_blank'>AI电子基因</a>  |
+| 2023-07-11 | 在看👀 <a href='http://movie.douban.com/subject/36189343/' target='_blank'>僵尸百分百～变成僵尸之前想做的100件事～</a>  |
+| 2023-07-11 | 想看🤔 <a href='http://movie.douban.com/subject/36189163/' target='_blank'>死神 千年血战篇 第二季</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

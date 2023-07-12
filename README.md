@@ -140,16 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-07-12 | 想读 <a href='https://book.douban.com/subject/1082361/' target='_blank'>张居正</a>  |
+| 2023-07-12 | 想读 <a href='https://book.douban.com/subject/6025373/' target='_blank'>风起陇西</a>  |
+| 2023-07-12 | 想读 <a href='https://book.douban.com/subject/36328704/' target='_blank'>太白金星有点烦</a>  |
+| 2023-07-12 | 想读 <a href='https://book.douban.com/subject/33450032/' target='_blank'>人间有至味</a>  |
+| 2023-07-12 | 想读 <a href='https://book.douban.com/subject/26836970/' target='_blank'>沙丘</a>  |
+| 2023-07-12 | 想读 <a href='https://book.douban.com/subject/36059517/' target='_blank'>古人吃饭那些事儿</a>  |
+| 2023-07-12 | 想读 <a href='https://book.douban.com/subject/30414743/' target='_blank'>显微镜下的大明</a>  |
+| 2023-07-12 | 想读 <a href='https://book.douban.com/subject/30443982/' target='_blank'>流浪地球</a>  |
+| 2023-07-12 | 想读 <a href='https://book.douban.com/subject/35517022/' target='_blank'>鹿川有许多粪</a>  |
 | 2023-07-11 | 看过😎 <a href='http://movie.douban.com/subject/35765350/' target='_blank'>咒术回战 第二季</a> ⭐⭐⭐ |
-| 2023-07-11 | 看过😎 <a href='http://movie.douban.com/subject/35724630/' target='_blank'>恶鬼</a> ⭐⭐⭐ |
-| 2023-07-11 | 看过😎 <a href='http://movie.douban.com/subject/35460731/' target='_blank'>无职转生Ⅱ ～到了异世界就拿出真本事～</a> ⭐ |
-| 2023-07-11 | 看过😎 <a href='http://movie.douban.com/subject/36129263/' target='_blank'>天国大魔境</a> ⭐⭐⭐⭐ |
-| 2023-07-11 | 看过😎 <a href='http://movie.douban.com/subject/35952106/' target='_blank'>物理魔法使马修</a> ⭐⭐ |
-| 2023-07-11 | 看过😎 <a href='http://movie.douban.com/subject/35573308/' target='_blank'>绝世网红</a> ⭐ |
-| 2023-07-11 | 想看🤔 <a href='http://movie.douban.com/subject/35807273/' target='_blank'>犯罪都市3</a>  |
-| 2023-07-11 | 在看👀 <a href='http://movie.douban.com/subject/36181414/' target='_blank'>AI电子基因</a>  |
-| 2023-07-11 | 在看👀 <a href='http://movie.douban.com/subject/36189343/' target='_blank'>僵尸百分百～变成僵尸之前想做的100件事～</a>  |
-| 2023-07-11 | 想看🤔 <a href='http://movie.douban.com/subject/36189163/' target='_blank'>死神 千年血战篇 第二季</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

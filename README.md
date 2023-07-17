@@ -140,6 +140,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-07-16 | 想看🤔 <a href='http://movie.douban.com/subject/30450557/' target='_blank'>极寒之城</a>  |
 | 2023-07-16 | 读过 <a href='https://book.douban.com/subject/35343568/' target='_blank'>闪点</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-16 | 读过 <a href='https://book.douban.com/subject/35515605/' target='_blank'>康斯坦丁2: 你认识的恶魔</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-16 | 读过 <a href='https://book.douban.com/subject/26913321/' target='_blank'>康斯坦丁1：原罪</a> ⭐⭐⭐⭐⭐ |
@@ -149,7 +150,6 @@
 | 2023-07-16 | 看过😎 <a href='http://movie.douban.com/subject/25741475/' target='_blank'>康斯坦丁</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-16 | 看过😎 <a href='http://movie.douban.com/subject/1718150/' target='_blank'>天龙八部</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-16 | 看过😎 <a href='http://movie.douban.com/subject/30458826/' target='_blank'>赌博默示录3</a> ⭐⭐⭐ |
-| 2023-07-16 | 看过😎 <a href='http://movie.douban.com/subject/6124043/' target='_blank'>赌博默示录2</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

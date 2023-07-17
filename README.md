@@ -140,16 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-07-17 | 想读 <a href='https://book.douban.com/subject/5975283/' target='_blank'>大学</a>  |
+| 2023-07-17 | 想读 <a href='https://book.douban.com/subject/35527730/' target='_blank'>寒门子弟上大学</a>  |
+| 2023-07-17 | 想读 <a href='https://book.douban.com/subject/30397750/' target='_blank'>论语三百讲（全三册）</a>  |
+| 2023-07-17 | 看过😎 <a href='http://movie.douban.com/subject/30433455/' target='_blank'>碟中谍7：致命清算（上）</a> ⭐⭐⭐ |
+| 2023-07-17 | 看过😎 <a href='http://movie.douban.com/subject/35993168/' target='_blank'>熊家餐馆 第二季</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-17 | 看过😎 <a href='http://movie.douban.com/subject/35900652/' target='_blank'>熊家餐馆 第一季</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-16 | 想看🤔 <a href='http://movie.douban.com/subject/30450557/' target='_blank'>极寒之城</a>  |
 | 2023-07-16 | 读过 <a href='https://book.douban.com/subject/35343568/' target='_blank'>闪点</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-16 | 读过 <a href='https://book.douban.com/subject/35515605/' target='_blank'>康斯坦丁2: 你认识的恶魔</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-16 | 读过 <a href='https://book.douban.com/subject/26913321/' target='_blank'>康斯坦丁1：原罪</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-16 | 看过😎 <a href='http://movie.douban.com/subject/35633926/' target='_blank'>康斯坦丁：神秘之屋</a> ⭐⭐⭐ |
-| 2023-07-16 | 看过😎 <a href='http://movie.douban.com/subject/30299345/' target='_blank'>康斯坦丁：恶魔之城 电影版</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-16 | 看过😎 <a href='http://movie.douban.com/subject/26951935/' target='_blank'>康斯坦丁：恶魔之城</a> ⭐⭐⭐⭐ |
-| 2023-07-16 | 看过😎 <a href='http://movie.douban.com/subject/25741475/' target='_blank'>康斯坦丁</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-16 | 看过😎 <a href='http://movie.douban.com/subject/1718150/' target='_blank'>天龙八部</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-16 | 看过😎 <a href='http://movie.douban.com/subject/30458826/' target='_blank'>赌博默示录3</a> ⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

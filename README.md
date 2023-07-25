@@ -140,6 +140,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-07-24 | 看过😎 <a href='http://movie.douban.com/subject/10604086/' target='_blank'>封神第一部：朝歌风云</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-20 | 看过😎 <a href='http://movie.douban.com/subject/30450557/' target='_blank'>极寒之城</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-20 | 看过😎 <a href='http://movie.douban.com/subject/1419936/' target='_blank'>战争之王</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-20 | 看过😎 <a href='http://movie.douban.com/subject/1867345/' target='_blank'>遗愿清单</a> ⭐⭐⭐⭐ |
@@ -149,7 +150,6 @@
 | 2023-07-20 | 看过😎 <a href='http://movie.douban.com/subject/1395091/' target='_blank'>未麻的部屋</a> ⭐⭐⭐⭐ |
 | 2023-07-20 | 看过😎 <a href='http://movie.douban.com/subject/4202302/' target='_blank'>借东西的小人阿莉埃蒂</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-20 | 想看🤔 <a href='http://movie.douban.com/subject/1292224/' target='_blank'>飞越疯人院</a>  |
-| 2023-07-20 | 看过😎 <a href='http://movie.douban.com/subject/1292849/' target='_blank'>拯救大兵瑞恩</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

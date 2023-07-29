@@ -140,6 +140,8 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-07-28 | 最近 <a href='https://book.douban.com/subject/36190074/' target='_blank'>在读金榜题名之后</a> ⭐⭐⭐⭐ |
+| 2023-07-28 | 最近 <a href='https://book.douban.com/subject/30397750/' target='_blank'>在读论语三百讲（全三册）</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-27 | 看过😎 <a href='http://movie.douban.com/subject/35417825/' target='_blank'>石纪元 第三季</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-27 | 看过😎 <a href='http://movie.douban.com/subject/35609387/' target='_blank'>猎魔人 第三季</a> ⭐⭐⭐ |
 | 2023-07-27 | 在看👀 <a href='http://movie.douban.com/subject/36212784/' target='_blank'>活着</a> ⭐⭐⭐⭐⭐ |
@@ -148,8 +150,6 @@
 | 2023-07-27 | 看过😎 <a href='http://movie.douban.com/subject/35284245/' target='_blank'>秘密入侵</a> ⭐⭐⭐ |
 | 2023-07-24 | 看过😎 <a href='http://movie.douban.com/subject/10604086/' target='_blank'>封神第一部：朝歌风云</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-20 | 看过😎 <a href='http://movie.douban.com/subject/30450557/' target='_blank'>极寒之城</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-20 | 看过😎 <a href='http://movie.douban.com/subject/1419936/' target='_blank'>战争之王</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-20 | 看过😎 <a href='http://movie.douban.com/subject/1867345/' target='_blank'>遗愿清单</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

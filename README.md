@@ -140,6 +140,9 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-07-29 | 在看👀 <a href='http://movie.douban.com/subject/36139980/' target='_blank'>凡人修仙传：星海飞驰篇</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-29 | 看过😎 <a href='http://movie.douban.com/subject/36017435/' target='_blank'>凡人修仙传：初入星海</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-29 | 在看👀 <a href='http://movie.douban.com/subject/35346290/' target='_blank'>永生</a> ⭐⭐⭐⭐ |
 | 2023-07-28 | 最近 <a href='https://book.douban.com/subject/36190074/' target='_blank'>在读金榜题名之后</a> ⭐⭐⭐⭐ |
 | 2023-07-28 | 最近 <a href='https://book.douban.com/subject/30397750/' target='_blank'>在读论语三百讲（全三册）</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-27 | 看过😎 <a href='http://movie.douban.com/subject/35417825/' target='_blank'>石纪元 第三季</a> ⭐⭐⭐⭐⭐ |
@@ -147,9 +150,6 @@
 | 2023-07-27 | 在看👀 <a href='http://movie.douban.com/subject/36212784/' target='_blank'>活着</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-27 | 看过😎 <a href='http://movie.douban.com/subject/35209746/' target='_blank'>小行星城</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-27 | 在看👀 <a href='http://movie.douban.com/subject/35770923/' target='_blank'>勇者赫鲁库</a> ⭐⭐⭐⭐ |
-| 2023-07-27 | 看过😎 <a href='http://movie.douban.com/subject/35284245/' target='_blank'>秘密入侵</a> ⭐⭐⭐ |
-| 2023-07-24 | 看过😎 <a href='http://movie.douban.com/subject/10604086/' target='_blank'>封神第一部：朝歌风云</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-20 | 看过😎 <a href='http://movie.douban.com/subject/30450557/' target='_blank'>极寒之城</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

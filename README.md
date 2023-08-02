@@ -140,7 +140,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-07-29 | 在看👀 <a href='http://movie.douban.com/subject/36139980/' target='_blank'>凡人修仙传：星海飞驰篇</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-29 | 在看👀 <a href='http://movie.douban.com/subject/36139980/' target='_blank'>凡人修仙传：星海飞驰</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-29 | 看过😎 <a href='http://movie.douban.com/subject/36017435/' target='_blank'>凡人修仙传：初入星海</a> ⭐⭐⭐⭐⭐ |
 | 2023-07-29 | 在看👀 <a href='http://movie.douban.com/subject/35346290/' target='_blank'>永生</a> ⭐⭐⭐⭐ |
 | 2023-07-28 | 最近 <a href='https://book.douban.com/subject/36190074/' target='_blank'>在读金榜题名之后</a> ⭐⭐⭐⭐ |

@@ -140,16 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-08-03 | 在看👀 <a href='http://movie.douban.com/subject/35326277/' target='_blank'>潜行者</a> ⭐⭐⭐⭐ |
-| 2023-08-03 | 看过😎 <a href='http://movie.douban.com/subject/35891808/' target='_blank'>欢颜</a> ⭐ |
-| 2023-08-02 | 看过😎 <a href='http://movie.douban.com/subject/30345127/' target='_blank'>少年歌行</a> ⭐⭐⭐⭐ |
-| 2023-08-02 | 看过😎 <a href='http://movie.douban.com/subject/35679806/' target='_blank'>君有云</a> ⭐⭐⭐⭐ |
-| 2023-07-29 | 在看👀 <a href='http://movie.douban.com/subject/36139980/' target='_blank'>凡人修仙传：星海飞驰</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-29 | 看过😎 <a href='http://movie.douban.com/subject/36017435/' target='_blank'>凡人修仙传：初入星海</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-29 | 在看👀 <a href='http://movie.douban.com/subject/35346290/' target='_blank'>永生</a> ⭐⭐⭐⭐ |
-| 2023-07-28 | 最近 <a href='https://book.douban.com/subject/36190074/' target='_blank'>在读金榜题名之后</a> ⭐⭐⭐⭐ |
-| 2023-07-28 | 最近 <a href='https://book.douban.com/subject/30397750/' target='_blank'>在读论语三百讲（全三册）</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-27 | 看过😎 <a href='http://movie.douban.com/subject/35417825/' target='_blank'>石纪元 第三季</a> ⭐⭐⭐⭐⭐ |
+| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/33450032/' target='_blank'>在读人间有至味</a>  |
+| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/6025373/' target='_blank'>在读风起陇西</a>  |
+| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/35517022/' target='_blank'>在读鹿川有许多粪</a>  |
+| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/36328704/' target='_blank'>在读太白金星有点烦</a>  |
+| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/36421882/' target='_blank'>在读剑来</a>  |
+| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/36087103/' target='_blank'>在读理论入门</a>  |
+| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/30159101/' target='_blank'>在读在中途换飞机的时候</a>  |
+| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/35736426/' target='_blank'>在读画语戮</a>  |
+| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/36218542/' target='_blank'>在读狂飙</a>  |
+| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/35703328/' target='_blank'>在读从惊奇开始</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

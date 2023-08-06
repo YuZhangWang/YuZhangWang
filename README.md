@@ -140,6 +140,9 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-08-05 | 玩过 <a href='http://www.douban.com/game/34467296/' target='_blank'>气球塔防6 Bloons TD 6</a> ⭐⭐⭐⭐⭐ |
+| 2023-08-05 | 想看🤔 <a href='http://movie.douban.com/subject/35505555/' target='_blank'>少年白马醉春风</a>  |
+| 2023-08-05 | 看过😎 <a href='http://movie.douban.com/subject/34925305/' target='_blank'>少年歌行 风花雪月篇</a> ⭐⭐⭐⭐⭐ |
 | 2023-08-04 | 最近 <a href='https://book.douban.com/subject/33450032/' target='_blank'>在读人间有至味</a>  |
 | 2023-08-04 | 最近 <a href='https://book.douban.com/subject/6025373/' target='_blank'>在读风起陇西</a>  |
 | 2023-08-04 | 最近 <a href='https://book.douban.com/subject/35517022/' target='_blank'>在读鹿川有许多粪</a>  |
@@ -147,9 +150,6 @@
 | 2023-08-04 | 最近 <a href='https://book.douban.com/subject/36421882/' target='_blank'>在读剑来</a>  |
 | 2023-08-04 | 最近 <a href='https://book.douban.com/subject/36087103/' target='_blank'>在读理论入门</a>  |
 | 2023-08-04 | 最近 <a href='https://book.douban.com/subject/30159101/' target='_blank'>在读在中途换飞机的时候</a>  |
-| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/35736426/' target='_blank'>在读画语戮</a>  |
-| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/36218542/' target='_blank'>在读狂飙</a>  |
-| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/35703328/' target='_blank'>在读从惊奇开始</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

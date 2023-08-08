@@ -140,6 +140,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-08-07 | 看过😎 <a href='http://movie.douban.com/subject/1293182/' target='_blank'>十二怒汉</a> ⭐⭐⭐⭐⭐ |
 | 2023-08-05 | 玩过 <a href='http://www.douban.com/game/34467296/' target='_blank'>气球塔防6 Bloons TD 6</a> ⭐⭐⭐⭐⭐ |
 | 2023-08-05 | 想看🤔 <a href='http://movie.douban.com/subject/35505555/' target='_blank'>少年白马醉春风</a>  |
 | 2023-08-05 | 看过😎 <a href='http://movie.douban.com/subject/34925305/' target='_blank'>少年歌行 风花雪月篇</a> ⭐⭐⭐⭐⭐ |
@@ -149,7 +150,6 @@
 | 2023-08-04 | 最近 <a href='https://book.douban.com/subject/36328704/' target='_blank'>在读太白金星有点烦</a>  |
 | 2023-08-04 | 最近 <a href='https://book.douban.com/subject/36421882/' target='_blank'>在读剑来</a>  |
 | 2023-08-04 | 最近 <a href='https://book.douban.com/subject/36087103/' target='_blank'>在读理论入门</a>  |
-| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/30159101/' target='_blank'>在读在中途换飞机的时候</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

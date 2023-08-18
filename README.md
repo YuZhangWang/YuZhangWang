@@ -140,16 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-08-07 | 看过😎 <a href='http://movie.douban.com/subject/1293182/' target='_blank'>十二怒汉</a> ⭐⭐⭐⭐⭐ |
-| 2023-08-05 | 玩过 <a href='http://www.douban.com/game/34467296/' target='_blank'>气球塔防6 Bloons TD 6</a> ⭐⭐⭐⭐⭐ |
-| 2023-08-05 | 想看🤔 <a href='http://movie.douban.com/subject/35505555/' target='_blank'>少年白马醉春风</a>  |
-| 2023-08-05 | 看过😎 <a href='http://movie.douban.com/subject/34925305/' target='_blank'>少年歌行 风花雪月篇</a> ⭐⭐⭐⭐⭐ |
-| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/33450032/' target='_blank'>在读人间有至味</a>  |
-| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/6025373/' target='_blank'>在读风起陇西</a>  |
-| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/35517022/' target='_blank'>在读鹿川有许多粪</a>  |
-| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/36328704/' target='_blank'>在读太白金星有点烦</a>  |
-| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/36421882/' target='_blank'>在读剑来</a>  |
-| 2023-08-04 | 最近 <a href='https://book.douban.com/subject/36087103/' target='_blank'>在读理论入门</a>  |
+| 2023-08-17 | 想看🤔 <a href='http://movie.douban.com/subject/30176790/' target='_blank'>梅艳芳</a>  |
+| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1304045/' target='_blank'>十万火急</a> ⭐⭐⭐⭐ |
+| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1308838/' target='_blank'>龙凤斗</a> ⭐⭐⭐⭐⭐ |
+| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1308120/' target='_blank'>暗战2</a> ⭐⭐ |
+| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1308796/' target='_blank'>柔道龙虎榜</a> ⭐⭐⭐⭐ |
+| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1309220/' target='_blank'>黑社会</a> ⭐⭐⭐⭐⭐ |
+| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1293202/' target='_blank'>真心英雄</a> ⭐⭐⭐⭐ |
+| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1308295/' target='_blank'>再见阿郎</a> ⭐⭐⭐⭐ |
+| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1300741/' target='_blank'>枪火</a> ⭐⭐⭐⭐⭐ |
+| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/3532614/' target='_blank'>夺命金</a> ⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

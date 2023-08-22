@@ -140,6 +140,9 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-08-21 | 看过😎 <a href='http://movie.douban.com/subject/36139980/' target='_blank'>凡人修仙传：星海飞驰</a> ⭐⭐⭐⭐⭐ |
+| 2023-08-21 | 看过😎 <a href='http://movie.douban.com/subject/35267224/' target='_blank'>孤注一掷</a> ⭐⭐⭐⭐ |
+| 2023-08-21 | 看过😎 <a href='http://movie.douban.com/subject/1308372/' target='_blank'>萧十一郎</a> ⭐⭐⭐⭐ |
 | 2023-08-17 | 想看🤔 <a href='http://movie.douban.com/subject/30176790/' target='_blank'>梅艳芳</a>  |
 | 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1304045/' target='_blank'>十万火急</a> ⭐⭐⭐⭐ |
 | 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1308838/' target='_blank'>龙凤斗</a> ⭐⭐⭐⭐⭐ |
@@ -147,9 +150,6 @@
 | 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1308796/' target='_blank'>柔道龙虎榜</a> ⭐⭐⭐⭐ |
 | 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1309220/' target='_blank'>黑社会</a> ⭐⭐⭐⭐⭐ |
 | 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1293202/' target='_blank'>真心英雄</a> ⭐⭐⭐⭐ |
-| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1308295/' target='_blank'>再见阿郎</a> ⭐⭐⭐⭐ |
-| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1300741/' target='_blank'>枪火</a> ⭐⭐⭐⭐⭐ |
-| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/3532614/' target='_blank'>夺命金</a> ⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

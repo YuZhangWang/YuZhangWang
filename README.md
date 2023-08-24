@@ -140,7 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-
+| 2023-08-22 | 最近 <a href='http://www.douban.com/game/34430168/' target='_blank'>在玩塞尔达传说 王国之泪 ゼルダの伝説 ティアーズ オブ ザ キングダム</a> ⭐⭐⭐⭐⭐ |
+| 2023-08-21 | 看过😎 <a href='http://movie.douban.com/subject/36139980/' target='_blank'>凡人修仙传：星海飞驰</a> ⭐⭐⭐⭐⭐ |
+| 2023-08-21 | 看过😎 <a href='http://movie.douban.com/subject/35267224/' target='_blank'>孤注一掷</a> ⭐⭐⭐⭐ |
+| 2023-08-21 | 看过😎 <a href='http://movie.douban.com/subject/1308372/' target='_blank'>萧十一郎</a> ⭐⭐⭐⭐ |
+| 2023-08-17 | 想看🤔 <a href='http://movie.douban.com/subject/30176790/' target='_blank'>梅艳芳</a>  |
+| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1304045/' target='_blank'>十万火急</a> ⭐⭐⭐⭐ |
+| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1308838/' target='_blank'>龙凤斗</a> ⭐⭐⭐⭐⭐ |
+| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1308120/' target='_blank'>暗战2</a> ⭐⭐ |
+| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1308796/' target='_blank'>柔道龙虎榜</a> ⭐⭐⭐⭐ |
+| 2023-08-17 | 看过😎 <a href='http://movie.douban.com/subject/1309220/' target='_blank'>黑社会</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

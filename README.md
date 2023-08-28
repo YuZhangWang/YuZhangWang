@@ -140,10 +140,10 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-08-27 | 看过😎 <a href='http://movie.douban.com/subject/27195027/' target='_blank'>使徒行者3</a> ⭐⭐⭐ |
 | 2023-08-26 | 想玩 <a href='http://www.douban.com/game/35184766/' target='_blank'>黑神话：悟空 Black Myth: Wu Kong</a>  |
 | 2023-08-26 | 玩过 <a href='http://www.douban.com/game/34430168/' target='_blank'>塞尔达传说 王国之泪 ゼルダの伝説 ティアーズ オブ ザ キングダム</a> ⭐⭐⭐⭐⭐ |
 | 2023-08-26 | 玩过 <a href='http://www.douban.com/game/36138262/' target='_blank'>潜水员戴夫 DAVE THE DIVER</a> ⭐⭐⭐⭐⭐ |
-| 2023-08-26 | 在看👀 <a href='http://movie.douban.com/subject/27195027/' target='_blank'>使徒行者3</a> ⭐⭐⭐⭐ |
 | 2023-08-24 | 读过 <a href='https://book.douban.com/subject/36328704/' target='_blank'>太白金星有点烦</a> ⭐⭐⭐⭐⭐ |
 | 2023-08-24 | 读过 <a href='https://book.douban.com/subject/36104107/' target='_blank'>长安的荔枝</a> ⭐⭐⭐⭐⭐ |
 | 2023-08-21 | 看过😎 <a href='http://movie.douban.com/subject/36139980/' target='_blank'>凡人修仙传：星海飞驰篇</a> ⭐⭐⭐⭐⭐ |

@@ -140,6 +140,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-08-28 | 看过😎 <a href='http://movie.douban.com/subject/35355164/' target='_blank'>最后的真相</a> ⭐⭐⭐⭐⭐ |
 | 2023-08-27 | 看过😎 <a href='http://movie.douban.com/subject/27195027/' target='_blank'>使徒行者3</a> ⭐⭐⭐ |
 | 2023-08-26 | 想玩 <a href='http://www.douban.com/game/35184766/' target='_blank'>黑神话：悟空 Black Myth: Wu Kong</a>  |
 | 2023-08-26 | 玩过 <a href='http://www.douban.com/game/34430168/' target='_blank'>塞尔达传说 王国之泪 ゼルダの伝説 ティアーズ オブ ザ キングダム</a> ⭐⭐⭐⭐⭐ |
@@ -149,7 +150,6 @@
 | 2023-08-21 | 看过😎 <a href='http://movie.douban.com/subject/36139980/' target='_blank'>凡人修仙传：星海飞驰篇</a> ⭐⭐⭐⭐⭐ |
 | 2023-08-21 | 看过😎 <a href='http://movie.douban.com/subject/35267224/' target='_blank'>孤注一掷</a> ⭐⭐⭐⭐ |
 | 2023-08-21 | 看过😎 <a href='http://movie.douban.com/subject/1308372/' target='_blank'>萧十一郎</a> ⭐⭐⭐⭐ |
-| 2023-08-17 | 想看🤔 <a href='http://movie.douban.com/subject/30176790/' target='_blank'>梅艳芳</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

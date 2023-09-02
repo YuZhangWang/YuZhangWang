@@ -140,6 +140,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-09-01 | 看过😎 <a href='http://movie.douban.com/subject/35042913/' target='_blank'>西部世界 第四季</a> ⭐⭐⭐ |
 | 2023-09-01 | 在看👀 <a href='http://movie.douban.com/subject/35936087/' target='_blank'>鹊刀门传奇</a> ⭐⭐⭐⭐ |
 | 2023-09-01 | 想看🤔 <a href='http://movie.douban.com/subject/34815544/' target='_blank'>秘密森林2</a>  |
 | 2023-09-01 | 在看👀 <a href='http://movie.douban.com/subject/26934346/' target='_blank'>秘密森林</a> ⭐⭐⭐⭐ |
@@ -149,7 +150,6 @@
 | 2023-08-30 | 想读 <a href='https://book.douban.com/subject/34846916/' target='_blank'>管锥编</a>  |
 | 2023-08-28 | 看过😎 <a href='http://movie.douban.com/subject/35355164/' target='_blank'>最后的真相</a> ⭐⭐⭐⭐⭐ |
 | 2023-08-27 | 看过😎 <a href='http://movie.douban.com/subject/27195027/' target='_blank'>使徒行者3</a> ⭐⭐⭐ |
-| 2023-08-26 | 想玩 <a href='http://www.douban.com/game/35184766/' target='_blank'>黑神话：悟空 Black Myth: Wu Kong</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

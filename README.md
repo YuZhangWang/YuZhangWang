@@ -140,6 +140,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-09-11 | 看过😎 <a href='http://movie.douban.com/subject/34436452/' target='_blank'>第八个嫌疑人</a> ⭐⭐⭐⭐⭐ |
 | 2023-09-05 | 想看🤔 <a href='http://movie.douban.com/subject/34882958/' target='_blank'>巨齿鲨2：深渊</a>  |
 | 2023-09-05 | 想看🤔 <a href='http://movie.douban.com/subject/35211920/' target='_blank'>疫起</a>  |
 | 2023-09-05 | 想看🤔 <a href='http://movie.douban.com/subject/36212964/' target='_blank'>黑莓</a>  |
@@ -149,7 +150,6 @@
 | 2023-09-01 | 在看👀 <a href='http://movie.douban.com/subject/35936087/' target='_blank'>鹊刀门传奇</a> ⭐⭐⭐⭐ |
 | 2023-09-01 | 想看🤔 <a href='http://movie.douban.com/subject/34815544/' target='_blank'>秘密森林2</a>  |
 | 2023-09-01 | 在看👀 <a href='http://movie.douban.com/subject/26934346/' target='_blank'>秘密森林</a> ⭐⭐⭐⭐ |
-| 2023-08-30 | 想读 <a href='https://book.douban.com/subject/35260060/' target='_blank'>渤海小吏的封建脉络百战系列：楚汉双雄</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

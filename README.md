@@ -140,6 +140,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-09-12 | 想读 <a href='https://book.douban.com/subject/1102259/' target='_blank'>人月神话</a>  |
 | 2023-09-11 | 看过😎 <a href='http://movie.douban.com/subject/34436452/' target='_blank'>第八个嫌疑人</a> ⭐⭐⭐⭐⭐ |
 | 2023-09-05 | 想看🤔 <a href='http://movie.douban.com/subject/34882958/' target='_blank'>巨齿鲨2：深渊</a>  |
 | 2023-09-05 | 想看🤔 <a href='http://movie.douban.com/subject/35211920/' target='_blank'>疫起</a>  |
@@ -149,7 +150,6 @@
 | 2023-09-01 | 看过😎 <a href='http://movie.douban.com/subject/35042913/' target='_blank'>西部世界 第四季</a> ⭐⭐⭐ |
 | 2023-09-01 | 在看👀 <a href='http://movie.douban.com/subject/35936087/' target='_blank'>鹊刀门传奇</a> ⭐⭐⭐⭐ |
 | 2023-09-01 | 想看🤔 <a href='http://movie.douban.com/subject/34815544/' target='_blank'>秘密森林2</a>  |
-| 2023-09-01 | 在看👀 <a href='http://movie.douban.com/subject/26934346/' target='_blank'>秘密森林</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

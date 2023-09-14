@@ -121,6 +121,7 @@
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
+| 2023-09-13 | <a href='https://yuzhang.wang/139-invoice-identification/' target='_blank'>增值税发票自动识别</a> |
 | 2023-09-06 | <a href='https://yuzhang.wang/138-prohibited-drugs/' target='_blank'>关于麻醉药及违禁药在抑郁症快速起效领域应用情况的调查研究</a> |
 | 2023-08-29 | <a href='https://yuzhang.wang/137-etiopathogenesis/' target='_blank'>关于抑郁症可能的发病机制调查研究</a> |
 | 2023-08-28 | <a href='https://yuzhang.wang/136-rapid-treatment-depression/' target='_blank'>关于快速抗抑郁的药物研究进展</a> |
@@ -130,7 +131,6 @@
 | 2023-06-05 | <a href='https://yuzhang.wang/131-remote-friend-linking/' target='_blank'>Butterfly主题中远程友链实操</a> |
 | 2023-06-04 | <a href='https://yuzhang.wang/130-domain-name-issue/' target='_blank'>域名的小问题导致网站关闭了很久</a> |
 | 2023-06-03 | <a href='https://yuzhang.wang/129-genshin-progress-planning/' target='_blank'>原神进度以及未来规划</a> |
-| 2023-06-02 | <a href='https://yuzhang.wang/128-exam-935/' target='_blank'>考研935记忆点</a> |
 <!-- END_SECTION:blog -->
 </td>
     
@@ -140,16 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-09-12 | 想读 <a href='https://book.douban.com/subject/1102259/' target='_blank'>人月神话</a>  |
-| 2023-09-11 | 看过😎 <a href='http://movie.douban.com/subject/34436452/' target='_blank'>第八个嫌疑人</a> ⭐⭐⭐⭐⭐ |
-| 2023-09-05 | 想看🤔 <a href='http://movie.douban.com/subject/34882958/' target='_blank'>巨齿鲨2：深渊</a>  |
-| 2023-09-05 | 想看🤔 <a href='http://movie.douban.com/subject/35211920/' target='_blank'>疫起</a>  |
-| 2023-09-05 | 想看🤔 <a href='http://movie.douban.com/subject/36212964/' target='_blank'>黑莓</a>  |
-| 2023-09-04 | 看过😎 <a href='http://movie.douban.com/subject/3819860/' target='_blank'>夺宝奇兵5：命运转盘</a> ⭐⭐⭐⭐ |
-| 2023-09-04 | 看过😎 <a href='http://movie.douban.com/subject/35593344/' target='_blank'>奥本海默</a> ⭐⭐⭐⭐⭐ |
-| 2023-09-01 | 看过😎 <a href='http://movie.douban.com/subject/35042913/' target='_blank'>西部世界 第四季</a> ⭐⭐⭐ |
-| 2023-09-01 | 在看👀 <a href='http://movie.douban.com/subject/35936087/' target='_blank'>鹊刀门传奇</a> ⭐⭐⭐⭐ |
-| 2023-09-01 | 想看🤔 <a href='http://movie.douban.com/subject/34815544/' target='_blank'>秘密森林2</a>  |
+| 2023-09-13 | 看过😎 <a href='http://movie.douban.com/subject/4058939/' target='_blank'>芭比</a> ⭐ |
+| 2023-09-13 | 读过 <a href='https://book.douban.com/subject/33450032/' target='_blank'>人间有至味</a> ⭐⭐⭐⭐⭐ |
+| 2023-09-13 | 看过😎 <a href='http://movie.douban.com/subject/35326277/' target='_blank'>潜行者</a> ⭐⭐⭐ |
+| 2023-09-13 | 看过😎 <a href='http://movie.douban.com/subject/35770923/' target='_blank'>勇者赫鲁库</a> ⭐⭐⭐ |
+| 2023-09-13 | 看过😎 <a href='http://movie.douban.com/subject/26934346/' target='_blank'>秘密森林</a> ⭐⭐⭐⭐ |
+| 2023-09-13 | 看过😎 <a href='http://movie.douban.com/subject/35936087/' target='_blank'>鹊刀门传奇</a> ⭐⭐⭐⭐⭐ |
+| 2023-09-13 | 看过😎 <a href='http://movie.douban.com/subject/5045678/' target='_blank'>大鱼海棠</a> ⭐⭐⭐⭐ |
+| 2023-09-13 | 看过😎 <a href='http://movie.douban.com/subject/26352445/' target='_blank'>反贪风暴2</a> ⭐⭐ |
+| 2023-09-13 | 看过😎 <a href='http://movie.douban.com/subject/1304624/' target='_blank'>旺角卡门</a> ⭐⭐⭐⭐ |
+| 2023-09-13 | 看过😎 <a href='http://movie.douban.com/subject/3012013/' target='_blank'>伸冤人</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

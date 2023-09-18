@@ -140,6 +140,8 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-09-17 | 想看🤔 <a href='http://movie.douban.com/subject/36117224/' target='_blank'>威尼斯惊魂夜</a>  |
+| 2023-09-17 | 看过😎 <a href='http://movie.douban.com/subject/30230682/' target='_blank'>宸汐缘</a> ⭐⭐⭐⭐ |
 | 2023-09-16 | 想看🤔 <a href='http://movie.douban.com/subject/35244032/' target='_blank'>洛基 第二季</a>  |
 | 2023-09-16 | 看过😎 <a href='http://movie.douban.com/subject/36516616/' target='_blank'>封神之路</a> ⭐⭐⭐⭐ |
 | 2023-09-16 | 看过😎 <a href='http://movie.douban.com/subject/26746801/' target='_blank'>暗杀风暴</a> ⭐⭐⭐⭐ |
@@ -148,8 +150,6 @@
 | 2023-09-15 | 看过😎 <a href='http://movie.douban.com/subject/35681326/' target='_blank'>假面女郎</a> ⭐⭐⭐ |
 | 2023-09-15 | 在看👀 <a href='http://movie.douban.com/subject/27093536/' target='_blank'>海贼王 真人版 第一季</a> ⭐⭐⭐⭐⭐ |
 | 2023-09-15 | 在看👀 <a href='http://movie.douban.com/subject/35165338/' target='_blank'>西出玉门</a> ⭐⭐⭐⭐ |
-| 2023-09-13 | 看过😎 <a href='http://movie.douban.com/subject/4058939/' target='_blank'>芭比</a> ⭐ |
-| 2023-09-13 | 读过 <a href='https://book.douban.com/subject/33450032/' target='_blank'>人间有至味</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

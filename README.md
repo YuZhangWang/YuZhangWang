@@ -140,6 +140,8 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-09-20 | 想看🤔 <a href='http://movie.douban.com/subject/35623511/' target='_blank'>九义人</a>  |
+| 2023-09-20 | 想看🤔 <a href='http://movie.douban.com/subject/35633163/' target='_blank'>莲花楼</a>  |
 | 2023-09-19 | 看过😎 <a href='http://movie.douban.com/subject/1306057/' target='_blank'>龙的传人</a> ⭐⭐⭐⭐⭐ |
 | 2023-09-19 | 想看🤔 <a href='http://movie.douban.com/subject/34950184/' target='_blank'>困兽</a>  |
 | 2023-09-19 | 想看🤔 <a href='http://movie.douban.com/subject/35074609/' target='_blank'>金手指</a>  |
@@ -148,8 +150,6 @@
 | 2023-09-19 | 想看🤔 <a href='http://movie.douban.com/subject/36076190/' target='_blank'>梦想情景</a>  |
 | 2023-09-19 | 想看🤔 <a href='http://movie.douban.com/subject/36368090/' target='_blank'>速度与激情11</a>  |
 | 2023-09-19 | 想看🤔 <a href='http://movie.douban.com/subject/3819866/' target='_blank'>屠夫十字镇</a>  |
-| 2023-09-19 | 想看🤔 <a href='http://movie.douban.com/subject/34429795/' target='_blank'>米奇17</a>  |
-| 2023-09-19 | 想看🤔 <a href='http://movie.douban.com/subject/35914398/' target='_blank'>哥斯拉-1.0</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

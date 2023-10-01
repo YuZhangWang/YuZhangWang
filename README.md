@@ -140,6 +140,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-09-30 | 看过😎 <a href='http://movie.douban.com/subject/33447633/' target='_blank'>坚如磐石</a> ⭐ |
 | 2023-09-20 | 想看🤔 <a href='http://movie.douban.com/subject/35623511/' target='_blank'>九义人</a>  |
 | 2023-09-20 | 想看🤔 <a href='http://movie.douban.com/subject/35633163/' target='_blank'>莲花楼</a>  |
 | 2023-09-19 | 看过😎 <a href='http://movie.douban.com/subject/1306057/' target='_blank'>龙的传人</a> ⭐⭐⭐⭐⭐ |
@@ -149,7 +150,6 @@
 | 2023-09-19 | 想看🤔 <a href='http://movie.douban.com/subject/35792500/' target='_blank'>异形：罗慕路斯</a>  |
 | 2023-09-19 | 想看🤔 <a href='http://movie.douban.com/subject/36076190/' target='_blank'>梦想情景</a>  |
 | 2023-09-19 | 想看🤔 <a href='http://movie.douban.com/subject/36368090/' target='_blank'>速度与激情11</a>  |
-| 2023-09-19 | 想看🤔 <a href='http://movie.douban.com/subject/3819866/' target='_blank'>屠夫十字镇</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

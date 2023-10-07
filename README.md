@@ -140,16 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/1302100/' target='_blank'>尼罗河上的惨案</a> ⭐⭐⭐⭐ |
+| 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/27203644/' target='_blank'>尼罗河上的惨案</a> ⭐⭐⭐ |
+| 2023-10-07 | 在看👀 <a href='http://movie.douban.com/subject/35211473/' target='_blank'>V世代</a> ⭐⭐⭐⭐⭐ |
+| 2023-10-06 | 在看👀 <a href='http://movie.douban.com/subject/30279994/' target='_blank'>文豪野犬 第三季</a> ⭐⭐⭐⭐⭐ |
+| 2023-10-06 | 看过😎 <a href='http://movie.douban.com/subject/26881134/' target='_blank'>文豪野犬 第二季</a> ⭐⭐⭐⭐⭐ |
+| 2023-10-06 | 看过😎 <a href='http://movie.douban.com/subject/26596140/' target='_blank'>文豪野犬</a> ⭐⭐⭐⭐⭐ |
+| 2023-10-06 | 看过😎 <a href='http://movie.douban.com/subject/35496350/' target='_blank'>志愿军：雄兵出击</a> ⭐⭐⭐⭐ |
 | 2023-10-03 | 看过😎 <a href='http://movie.douban.com/subject/35633163/' target='_blank'>莲花楼</a> ⭐⭐⭐⭐ |
 | 2023-10-03 | 看过😎 <a href='http://movie.douban.com/subject/35623511/' target='_blank'>九义人</a> ⭐⭐⭐⭐ |
 | 2023-10-03 | 看过😎 <a href='http://movie.douban.com/subject/35284486/' target='_blank'>阿索卡</a> ⭐⭐⭐⭐ |
-| 2023-10-03 | 看过😎 <a href='http://movie.douban.com/subject/27093536/' target='_blank'>海贼王 真人版 第一季</a> ⭐⭐⭐⭐⭐ |
-| 2023-10-03 | 看过😎 <a href='http://movie.douban.com/subject/35346290/' target='_blank'>永生</a> ⭐⭐⭐⭐ |
-| 2023-10-03 | 看过😎 <a href='http://movie.douban.com/subject/35165338/' target='_blank'>西出玉门</a> ⭐⭐⭐⭐ |
-| 2023-10-03 | 看过😎 <a href='http://movie.douban.com/subject/26853822/' target='_blank'>异人之下</a> ⭐⭐⭐⭐ |
-| 2023-09-30 | 看过😎 <a href='http://movie.douban.com/subject/33447633/' target='_blank'>坚如磐石</a> ⭐ |
-| 2023-09-19 | 看过😎 <a href='http://movie.douban.com/subject/1306057/' target='_blank'>龙的传人</a> ⭐⭐⭐⭐⭐ |
-| 2023-09-19 | 想看🤔 <a href='http://movie.douban.com/subject/34950184/' target='_blank'>困兽</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

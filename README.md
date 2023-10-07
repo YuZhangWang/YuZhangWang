@@ -140,6 +140,9 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/35765480/' target='_blank'>八角笼中</a> ⭐⭐⭐ |
+| 2023-10-07 | 在看👀 <a href='http://movie.douban.com/subject/35244032/' target='_blank'>洛基 第二季</a> ⭐⭐⭐ |
+| 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/35724543/' target='_blank'>亨利·休格的神奇故事</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/1302100/' target='_blank'>尼罗河上的惨案</a> ⭐⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/27203644/' target='_blank'>尼罗河上的惨案</a> ⭐⭐⭐ |
 | 2023-10-07 | 在看👀 <a href='http://movie.douban.com/subject/35211473/' target='_blank'>V世代</a> ⭐⭐⭐⭐⭐ |
@@ -147,9 +150,6 @@
 | 2023-10-06 | 看过😎 <a href='http://movie.douban.com/subject/26881134/' target='_blank'>文豪野犬 第二季</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-06 | 看过😎 <a href='http://movie.douban.com/subject/26596140/' target='_blank'>文豪野犬</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-06 | 看过😎 <a href='http://movie.douban.com/subject/35496350/' target='_blank'>志愿军：雄兵出击</a> ⭐⭐⭐⭐ |
-| 2023-10-03 | 看过😎 <a href='http://movie.douban.com/subject/35633163/' target='_blank'>莲花楼</a> ⭐⭐⭐⭐ |
-| 2023-10-03 | 看过😎 <a href='http://movie.douban.com/subject/35623511/' target='_blank'>九义人</a> ⭐⭐⭐⭐ |
-| 2023-10-03 | 看过😎 <a href='http://movie.douban.com/subject/35284486/' target='_blank'>阿索卡</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

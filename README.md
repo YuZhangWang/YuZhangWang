@@ -140,16 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/10877413/' target='_blank'>老千2：神之手</a> ⭐⭐⭐ |
+| 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/35736400/' target='_blank'>伸冤人3</a> ⭐⭐⭐⭐ |
+| 2023-10-07 | 在看👀 <a href='http://movie.douban.com/subject/36206696/' target='_blank'>明日生存指南</a> ⭐⭐⭐⭐⭐ |
+| 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/34430141/' target='_blank'>平家物语：犬王</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/35765480/' target='_blank'>八角笼中</a> ⭐⭐⭐ |
 | 2023-10-07 | 在看👀 <a href='http://movie.douban.com/subject/35244032/' target='_blank'>洛基 第二季</a> ⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/35724543/' target='_blank'>亨利·休格的神奇故事</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/1302100/' target='_blank'>尼罗河上的惨案</a> ⭐⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/27203644/' target='_blank'>尼罗河上的惨案</a> ⭐⭐⭐ |
 | 2023-10-07 | 在看👀 <a href='http://movie.douban.com/subject/35211473/' target='_blank'>V世代</a> ⭐⭐⭐⭐⭐ |
-| 2023-10-06 | 在看👀 <a href='http://movie.douban.com/subject/30279994/' target='_blank'>文豪野犬 第三季</a> ⭐⭐⭐⭐⭐ |
-| 2023-10-06 | 看过😎 <a href='http://movie.douban.com/subject/26881134/' target='_blank'>文豪野犬 第二季</a> ⭐⭐⭐⭐⭐ |
-| 2023-10-06 | 看过😎 <a href='http://movie.douban.com/subject/26596140/' target='_blank'>文豪野犬</a> ⭐⭐⭐⭐⭐ |
-| 2023-10-06 | 看过😎 <a href='http://movie.douban.com/subject/35496350/' target='_blank'>志愿军：雄兵出击</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

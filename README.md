@@ -121,11 +121,11 @@
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
+| 2023-09-28 | <a href='https://yuzhang.wang/134-depression-mitochondrial-energy-metabolism-01/' target='_blank'>抑郁症与线粒体能量代谢-Section01</a> |
 | 2023-09-13 | <a href='https://yuzhang.wang/139-invoice-identification/' target='_blank'>增值税发票自动识别</a> |
 | 2023-09-06 | <a href='https://yuzhang.wang/138-prohibited-drugs/' target='_blank'>关于麻醉药及违禁药在抑郁症快速起效领域应用情况的调查研究</a> |
 | 2023-08-29 | <a href='https://yuzhang.wang/137-etiopathogenesis/' target='_blank'>关于抑郁症可能的发病机制调查研究</a> |
 | 2023-08-28 | <a href='https://yuzhang.wang/136-rapid-treatment-depression/' target='_blank'>关于快速抗抑郁的药物研究进展</a> |
-| 2023-06-08 | <a href='https://yuzhang.wang/134-past-pesent-future/' target='_blank'>过去 现在 未来</a> |
 | 2023-06-07 | <a href='https://yuzhang.wang/133-best-template/' target='_blank'>你应该为自己创建一个Github仓库模板</a> |
 | 2023-06-06 | <a href='https://yuzhang.wang/132-github-introduction/' target='_blank'>如何拥有一个Awesome的Github介绍页面</a> |
 | 2023-06-05 | <a href='https://yuzhang.wang/131-remote-friend-linking/' target='_blank'>Butterfly主题中远程友链实操</a> |
@@ -140,6 +140,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-10-08 | 看过😎 <a href='http://movie.douban.com/subject/1292212/' target='_blank'>天使之城</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/10877413/' target='_blank'>老千2：神之手</a> ⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/35736400/' target='_blank'>伸冤人3</a> ⭐⭐⭐⭐ |
 | 2023-10-07 | 在看👀 <a href='http://movie.douban.com/subject/36206696/' target='_blank'>明日生存指南</a> ⭐⭐⭐⭐⭐ |
@@ -149,7 +150,6 @@
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/35724543/' target='_blank'>亨利·休格的神奇故事</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/1302100/' target='_blank'>尼罗河上的惨案</a> ⭐⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/27203644/' target='_blank'>尼罗河上的惨案</a> ⭐⭐⭐ |
-| 2023-10-07 | 在看👀 <a href='http://movie.douban.com/subject/35211473/' target='_blank'>V世代</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

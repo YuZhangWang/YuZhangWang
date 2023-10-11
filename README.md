@@ -140,6 +140,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-10-10 | 在看👀 <a href='http://movie.douban.com/subject/35561680/' target='_blank'>特工任务</a> ⭐⭐⭐⭐ |
 | 2023-10-08 | 看过😎 <a href='http://movie.douban.com/subject/1292212/' target='_blank'>天使之城</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/10877413/' target='_blank'>老千2：神之手</a> ⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/35736400/' target='_blank'>伸冤人3</a> ⭐⭐⭐⭐ |
@@ -149,7 +150,6 @@
 | 2023-10-07 | 在看👀 <a href='http://movie.douban.com/subject/35244032/' target='_blank'>洛基 第二季</a> ⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/35724543/' target='_blank'>亨利·休格的神奇故事</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/1302100/' target='_blank'>尼罗河上的惨案</a> ⭐⭐⭐⭐ |
-| 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/27203644/' target='_blank'>尼罗河上的惨案</a> ⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

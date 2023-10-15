@@ -122,6 +122,7 @@
 | Date | Title |
 | :-: | :---: |
 | 2023-09-28 | <a href='https://yuzhang.wang/134-depression-mitochondrial-energy-metabolism-01/' target='_blank'>抑郁症与线粒体能量代谢-Section01</a> |
+| 2023-09-14 | <a href='https://yuzhang.wang/142-note-tag/' target='_blank'>Butterfly中Note标签使用方法</a> |
 | 2023-09-13 | <a href='https://yuzhang.wang/139-invoice-identification/' target='_blank'>增值税发票自动识别</a> |
 | 2023-09-06 | <a href='https://yuzhang.wang/138-prohibited-drugs/' target='_blank'>关于麻醉药及违禁药在抑郁症快速起效领域应用情况的调查研究</a> |
 | 2023-08-29 | <a href='https://yuzhang.wang/137-etiopathogenesis/' target='_blank'>关于抑郁症可能的发病机制调查研究</a> |
@@ -130,7 +131,6 @@
 | 2023-06-06 | <a href='https://yuzhang.wang/132-github-introduction/' target='_blank'>如何拥有一个Awesome的Github介绍页面</a> |
 | 2023-06-05 | <a href='https://yuzhang.wang/131-remote-friend-linking/' target='_blank'>Butterfly主题中远程友链实操</a> |
 | 2023-06-04 | <a href='https://yuzhang.wang/130-domain-name-issue/' target='_blank'>域名的小问题导致网站关闭了很久</a> |
-| 2023-06-03 | <a href='https://yuzhang.wang/129-genshin-progress-planning/' target='_blank'>原神进度以及未来规划</a> |
 <!-- END_SECTION:blog -->
 </td>
     
@@ -140,16 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-10-14 | 看过😎 <a href='http://movie.douban.com/subject/26665875/' target='_blank'>老千3：独眼杰克</a> ⭐⭐ |
+| 2023-10-14 | 在看👀 <a href='http://movie.douban.com/subject/36564343/' target='_blank'>时空怪客 第二季</a> ⭐⭐⭐⭐ |
+| 2023-10-14 | 在看👀 <a href='http://movie.douban.com/subject/26967910/' target='_blank'>大陆酒店</a> ⭐⭐⭐⭐ |
+| 2023-10-14 | 在看👀 <a href='http://movie.douban.com/subject/34942478/' target='_blank'>美国恐怖故事 第十二季</a> ⭐⭐⭐⭐ |
+| 2023-10-14 | 在看👀 <a href='http://movie.douban.com/subject/35339377/' target='_blank'>化学课</a> ⭐⭐⭐⭐⭐ |
+| 2023-10-14 | 在看👀 <a href='http://movie.douban.com/subject/36318293/' target='_blank'>石纪元 第三季 Part 2</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-10 | 在看👀 <a href='http://movie.douban.com/subject/35561680/' target='_blank'>特工任务</a> ⭐⭐⭐⭐ |
 | 2023-10-08 | 看过😎 <a href='http://movie.douban.com/subject/1292212/' target='_blank'>天使之城</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/10877413/' target='_blank'>老千2：神之手</a> ⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/35736400/' target='_blank'>伸冤人3</a> ⭐⭐⭐⭐ |
-| 2023-10-07 | 在看👀 <a href='http://movie.douban.com/subject/36206696/' target='_blank'>明日生存指南</a> ⭐⭐⭐⭐⭐ |
-| 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/34430141/' target='_blank'>平家物语：犬王</a> ⭐⭐⭐⭐⭐ |
-| 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/35765480/' target='_blank'>八角笼中</a> ⭐⭐⭐ |
-| 2023-10-07 | 在看👀 <a href='http://movie.douban.com/subject/35244032/' target='_blank'>洛基 第二季</a> ⭐⭐⭐ |
-| 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/35724543/' target='_blank'>亨利·休格的神奇故事</a> ⭐⭐⭐⭐⭐ |
-| 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/1302100/' target='_blank'>尼罗河上的惨案</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

@@ -140,6 +140,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-10-16 | 看过😎 <a href='http://movie.douban.com/subject/10810266/' target='_blank'>93国际列车大劫案：莫斯科行动</a> ⭐⭐⭐ |
 | 2023-10-14 | 看过😎 <a href='http://movie.douban.com/subject/26665875/' target='_blank'>老千3：独眼杰克</a> ⭐⭐ |
 | 2023-10-14 | 在看👀 <a href='http://movie.douban.com/subject/36564343/' target='_blank'>时空怪客 第二季</a> ⭐⭐⭐⭐ |
 | 2023-10-14 | 在看👀 <a href='http://movie.douban.com/subject/26967910/' target='_blank'>大陆酒店</a> ⭐⭐⭐⭐ |
@@ -149,7 +150,6 @@
 | 2023-10-10 | 在看👀 <a href='http://movie.douban.com/subject/35561680/' target='_blank'>特工任务</a> ⭐⭐⭐⭐ |
 | 2023-10-08 | 看过😎 <a href='http://movie.douban.com/subject/1292212/' target='_blank'>天使之城</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/10877413/' target='_blank'>老千2：神之手</a> ⭐⭐⭐ |
-| 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/35736400/' target='_blank'>伸冤人3</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

@@ -140,16 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-10-16 | 看过😎 <a href='http://movie.douban.com/subject/10810266/' target='_blank'>93国际列车大劫案：莫斯科行动</a> ⭐⭐⭐ |
-| 2023-10-14 | 看过😎 <a href='http://movie.douban.com/subject/26665875/' target='_blank'>老千3：独眼杰克</a> ⭐⭐ |
-| 2023-10-14 | 在看👀 <a href='http://movie.douban.com/subject/36564343/' target='_blank'>时空怪客 第二季</a> ⭐⭐⭐⭐ |
-| 2023-10-14 | 在看👀 <a href='http://movie.douban.com/subject/26967910/' target='_blank'>大陆酒店</a> ⭐⭐⭐⭐ |
-| 2023-10-14 | 在看👀 <a href='http://movie.douban.com/subject/34942478/' target='_blank'>美国恐怖故事 第十二季</a> ⭐⭐⭐⭐ |
-| 2023-10-14 | 在看👀 <a href='http://movie.douban.com/subject/35339377/' target='_blank'>化学课</a> ⭐⭐⭐⭐⭐ |
-| 2023-10-14 | 在看👀 <a href='http://movie.douban.com/subject/36318293/' target='_blank'>石纪元 第三季 Part 2</a> ⭐⭐⭐⭐⭐ |
-| 2023-10-10 | 在看👀 <a href='http://movie.douban.com/subject/35561680/' target='_blank'>特工任务</a> ⭐⭐⭐⭐ |
-| 2023-10-08 | 看过😎 <a href='http://movie.douban.com/subject/1292212/' target='_blank'>天使之城</a> ⭐⭐⭐⭐⭐ |
-| 2023-10-07 | 看过😎 <a href='http://movie.douban.com/subject/10877413/' target='_blank'>老千2：神之手</a> ⭐⭐⭐ |
+| 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/1296459/' target='_blank'>星际传奇</a> ⭐⭐⭐⭐ |
+| 2023-10-23 | 想看🤔 <a href='http://movie.douban.com/subject/35613925/' target='_blank'>门前宝地</a>  |
+| 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/35898751/' target='_blank'>上载新生 第三季</a> ⭐⭐⭐ |
+| 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/36207072/' target='_blank'>下游特工</a> ⭐⭐⭐ |
+| 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/2389241/' target='_blank'>岁月</a> ⭐⭐⭐⭐⭐ |
+| 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/35303814/' target='_blank'>走私</a> ⭐⭐⭐ |
+| 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/35244032/' target='_blank'>洛基 第二季</a> ⭐⭐⭐⭐⭐ |
+| 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/35597581/' target='_blank'>瑞克和莫蒂 第六季</a> ⭐⭐⭐⭐⭐ |
+| 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/36025639/' target='_blank'>瑞克和莫蒂 第七季</a> ⭐⭐⭐⭐⭐ |
+| 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/35725842/' target='_blank'>繁城之下</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

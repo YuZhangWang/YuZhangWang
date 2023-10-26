@@ -140,6 +140,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-10-25 | 想看🤔 <a href='http://movie.douban.com/subject/35256092/' target='_blank'>河边的错误</a>  |
 | 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/1296459/' target='_blank'>星际传奇</a> ⭐⭐⭐⭐ |
 | 2023-10-23 | 想看🤔 <a href='http://movie.douban.com/subject/35613925/' target='_blank'>门前宝地</a>  |
 | 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/35898751/' target='_blank'>上载新生 第三季</a> ⭐⭐⭐ |
@@ -149,7 +150,6 @@
 | 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/35244032/' target='_blank'>洛基 第二季</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/35597581/' target='_blank'>瑞克和莫蒂 第六季</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/36025639/' target='_blank'>瑞克和莫蒂 第七季</a> ⭐⭐⭐⭐⭐ |
-| 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/35725842/' target='_blank'>繁城之下</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

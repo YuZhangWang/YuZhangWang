@@ -140,16 +140,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-11-02 | 看过😎 <a href='http://movie.douban.com/subject/27087788/' target='_blank'>虎啸龙吟</a> ⭐⭐⭐⭐⭐ |
-| 2023-11-02 | 看过😎 <a href='http://movie.douban.com/subject/26605881/' target='_blank'>大军师司马懿之军师联盟</a> ⭐⭐⭐⭐ |
-| 2023-11-02 | 想看🤔 <a href='http://movie.douban.com/subject/35875180/' target='_blank'>拯救嫌疑人</a>  |
-| 2023-11-02 | 想看🤔 <a href='http://movie.douban.com/subject/35242824/' target='_blank'>二手杰作</a>  |
-| 2023-10-25 | 想看🤔 <a href='http://movie.douban.com/subject/35256092/' target='_blank'>河边的错误</a>  |
-| 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/1296459/' target='_blank'>星际传奇</a> ⭐⭐⭐⭐ |
-| 2023-10-23 | 想看🤔 <a href='http://movie.douban.com/subject/35613925/' target='_blank'>门前宝地</a>  |
-| 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/35898751/' target='_blank'>上载新生 第三季</a> ⭐⭐⭐ |
-| 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/36207072/' target='_blank'>下游特工</a> ⭐⭐⭐ |
-| 2023-10-23 | 看过😎 <a href='http://movie.douban.com/subject/2389241/' target='_blank'>岁月</a> ⭐⭐⭐⭐⭐ |
+
 <!-- END_SECTION:douban -->
 </td>
 </tr>

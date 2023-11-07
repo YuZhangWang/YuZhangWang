@@ -140,7 +140,16 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-
+| 2023-11-06 | 在看👀 <a href='http://movie.douban.com/subject/34905779/' target='_blank'>问心</a>  |
+| 2023-11-06 | 在看👀 <a href='http://movie.douban.com/subject/35059344/' target='_blank'>鸡皮疙瘩(剧版)</a>  |
+| 2023-11-06 | 在看👀 <a href='http://movie.douban.com/subject/35932858/' target='_blank'>拾荒者统治</a> ⭐⭐⭐⭐⭐ |
+| 2023-11-05 | 在看👀 <a href='http://movie.douban.com/subject/36189327/' target='_blank'>穴界风云</a> ⭐⭐⭐⭐ |
+| 2023-11-05 | 在看👀 <a href='http://movie.douban.com/subject/36025639/' target='_blank'>瑞克和莫蒂 第七季</a> ⭐⭐⭐⭐⭐ |
+| 2023-11-05 | 想看🤔 <a href='http://movie.douban.com/subject/36283000/' target='_blank'>进击的巨人 最终季 完结篇 后篇</a>  |
+| 2023-11-05 | 看过😎 <a href='http://movie.douban.com/subject/35211473/' target='_blank'>V世代 第一季</a> ⭐⭐⭐⭐⭐ |
+| 2023-11-02 | 看过😎 <a href='http://movie.douban.com/subject/27087788/' target='_blank'>虎啸龙吟</a> ⭐⭐⭐⭐⭐ |
+| 2023-11-02 | 看过😎 <a href='http://movie.douban.com/subject/26605881/' target='_blank'>大军师司马懿之军师联盟</a> ⭐⭐⭐⭐ |
+| 2023-11-02 | 想看🤔 <a href='http://movie.douban.com/subject/35875180/' target='_blank'>拯救嫌疑人</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

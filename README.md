@@ -140,6 +140,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-11-13 | 想看🤔 <a href='http://movie.douban.com/subject/36140095/' target='_blank'>新闻女王</a>  |
 | 2023-11-12 | 看过😎 <a href='http://movie.douban.com/subject/36283000/' target='_blank'>进击的巨人 最终季 完结篇 后篇</a> ⭐⭐⭐⭐⭐ |
 | 2023-11-06 | 在看👀 <a href='http://movie.douban.com/subject/34905779/' target='_blank'>问心</a>  |
 | 2023-11-06 | 在看👀 <a href='http://movie.douban.com/subject/35059344/' target='_blank'>鸡皮疙瘩(剧版)</a>  |
@@ -149,7 +150,6 @@
 | 2023-11-05 | 看过😎 <a href='http://movie.douban.com/subject/35211473/' target='_blank'>V世代 第一季</a> ⭐⭐⭐⭐⭐ |
 | 2023-11-02 | 看过😎 <a href='http://movie.douban.com/subject/27087788/' target='_blank'>虎啸龙吟</a> ⭐⭐⭐⭐⭐ |
 | 2023-11-02 | 看过😎 <a href='http://movie.douban.com/subject/26605881/' target='_blank'>大军师司马懿之军师联盟</a> ⭐⭐⭐⭐ |
-| 2023-11-02 | 想看🤔 <a href='http://movie.douban.com/subject/35875180/' target='_blank'>拯救嫌疑人</a>  |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

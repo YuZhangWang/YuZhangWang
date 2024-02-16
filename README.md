@@ -140,6 +140,9 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2024-02-15 | 想看🤔 <a href='http://movie.douban.com/subject/35494829/' target='_blank'>红毯先生</a>  |
+| 2024-02-15 | 看过😎 <a href='http://movie.douban.com/subject/35725869/' target='_blank'>年会不能停！</a> ⭐⭐⭐⭐⭐ |
+| 2024-02-15 | 想看🤔 <a href='http://movie.douban.com/subject/36369452/' target='_blank'>飞驰人生2</a>  |
 | 2023-11-30 | 看过😎 <a href='http://movie.douban.com/subject/35904144/' target='_blank'>银河英雄传说 Die Neue These 策谋 第2章</a> ⭐⭐⭐⭐⭐ |
 | 2023-11-30 | 看过😎 <a href='http://movie.douban.com/subject/33456512/' target='_blank'>涉过愤怒的海</a> ⭐⭐⭐ |
 | 2023-11-13 | 想看🤔 <a href='http://movie.douban.com/subject/36140095/' target='_blank'>新闻女王</a>  |
@@ -147,9 +150,6 @@
 | 2023-11-06 | 在看👀 <a href='http://movie.douban.com/subject/34905779/' target='_blank'>问心</a>  |
 | 2023-11-06 | 在看👀 <a href='http://movie.douban.com/subject/35059344/' target='_blank'>鸡皮疙瘩(剧版)</a>  |
 | 2023-11-06 | 在看👀 <a href='http://movie.douban.com/subject/35932858/' target='_blank'>拾荒者统治</a> ⭐⭐⭐⭐⭐ |
-| 2023-11-05 | 在看👀 <a href='http://movie.douban.com/subject/36189327/' target='_blank'>穴界风云</a> ⭐⭐⭐⭐ |
-| 2023-11-05 | 在看👀 <a href='http://movie.douban.com/subject/36025639/' target='_blank'>瑞克和莫蒂 第七季</a> ⭐⭐⭐⭐⭐ |
-| 2023-11-05 | 看过😎 <a href='http://movie.douban.com/subject/35211473/' target='_blank'>V世代 第一季</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>
 </tr>

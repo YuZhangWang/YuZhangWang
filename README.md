@@ -148,7 +148,7 @@
 | 2023-11-13 | 想看🤔 <a href='http://movie.douban.com/subject/36140095/' target='_blank'>新闻女王</a>  |
 | 2023-11-12 | 看过😎 <a href='http://movie.douban.com/subject/36283000/' target='_blank'>进击的巨人 最终季 完结篇 后篇</a> ⭐⭐⭐⭐⭐ |
 | 2023-11-06 | 在看👀 <a href='http://movie.douban.com/subject/34905779/' target='_blank'>问心</a>  |
-| 2023-11-06 | 在看👀 <a href='http://movie.douban.com/subject/35059344/' target='_blank'>鸡皮疙瘩(剧版)</a>  |
+| 2023-11-06 | 在看👀 <a href='http://movie.douban.com/subject/35059344/' target='_blank'>鸡皮疙瘩(剧版) 第一季</a>  |
 | 2023-11-06 | 在看👀 <a href='http://movie.douban.com/subject/35932858/' target='_blank'>拾荒者统治</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 </td>

@@ -1,7 +1,7 @@
 <!-- 欢迎界面并展示访问次数 -->
 <h2 align="center">👋Thank You For Your Visit</h2>
 <div align="center">
-<img src="https://profile-counter.glitch.me/YuZhangWang/count.svg">
+<img src="https://profile-counter.deno.dev/YuZhangWang/count.svg">
 </div>
 </br>
 
@@ -38,10 +38,10 @@
         <!-- Github状态 -->
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="YuZhangWang's Github stats" />
+            <img height=259 src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="YuZhangWang's Github stats" />
             </a>
             <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="YuZhangWang's Github stats" />
+            <img height=259 src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="YuZhangWang's Github stats" />
             </a>
         </td>
         <!-- Github仓库内编程语言使用情况统计 -->

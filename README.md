@@ -64,10 +64,10 @@
 
 <!-- 常用的编程语言和常用的编程框架和IDE工具 -->
 <div align="center">
-<p><strong>Languages</strong><br>
+<p><strong>Languages</strong> 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011149.png" alt="Python" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="CPP" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="Latex" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="Html" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" /></code>
 </p>
-<p><strong>Tools</strong><br>
+<p><strong>Tools</strong> 
 <code><img height="20" src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/pycharm.svg" alt="Pycharm" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="Pytorch" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="Opencv"></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django"></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask"></code> <code><img height="20" src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/clion.svg" alt="Clion"/></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake"/></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js"/></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual-Studio-Code" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" alt="openSUSE" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" alt="Firefox" /></code>
 </p>
 </div>
@@ -80,24 +80,6 @@
 > - 个人博客[https://yuzhang.wang](https://yuzhang.wang)   
 > - 博客备份[YuZhangWang的领域](https://flowus.cn/yuzhangwang/share/7df66bdd-907c-4023-803c-b8c5cfe06d4a)   
 > - RSS订阅[https://yuzhang.wang/rss2.xml](https://yuzhang.wang/rss2.xml)   
-
-
-## :books: <a href="https://yuzhang.wang" target="_blank">Recent Blog</a>
-
-| Date | Title |
-| :-: | :---: |
-<!-- BLOG-POST-LIST:START -->
-| 2025-11-28 | [教资复习-教育法律法规笔记](https://yuzhang.wang/158-education-laws-regulations/) |
-| 2025-11-14 | [教资复习-教师职业道德笔记](https://yuzhang.wang/157-teacher-professional-ethics/) |
-| 2025-10-17 | [联邦学习中的统计异质性建模与优化理论](https://yuzhang.wang/156-statistical-heterogeneity-modeling/) |
-| 2025-10-16 | [联邦学习范式下的隐私伦理与数据所有权哲学研究](https://yuzhang.wang/155-privacy-ethics-data-ownership/) |
-| 2025-10-15 | [单循环联邦演员—评论家方法](https://yuzhang.wang/154-critic-method/) |
-| 2025-10-15 | [面向资源受限场景的 FedFreeze 框架](https://yuzhang.wang/153-fedFreeze-framework/) |
-| 2025-10-15 | [大模型时代的高效云-边协同推理框架](https://yuzhang.wang/152-edge-collaborative-reasoning-framework/) |
-| 2025-10-15 | [选择性对比解码的边-云协同动态推理](https://yuzhang.wang/151-selective-contrast-decoding-edges/) |
-| 2025-10-15 | [跨机构联邦风控平台：架构、方法与实践](https://yuzhang.wang/150-federal-risk-control-platform/) |
-| 2025-10-15 | [人体微生态与宿主的交互调控机制：从共生稳态到精准干预](https://yuzhang.wang/149-human-microbiome-host-interaction/) |
-<!-- BLOG-POST-LIST:END -->
 
 
 <!-- 各种平台联系方式 -->

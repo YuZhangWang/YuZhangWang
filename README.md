@@ -39,7 +39,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img height=259 src="https://raw.githubusercontent.com/YuZhangWang/YuZhangWang/master/images/github-stats-dark.svg" alt="YuZhangWang's Github stats" />
     </a>
-    <br>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img height=259 src="https://raw.githubusercontent.com/YuZhangWang/YuZhangWang/master/images/github-langs-light.svg" alt="YuZhangWang's Language stats" />
     </a>

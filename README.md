@@ -3,7 +3,7 @@
 <!-- 欢迎界面并展示访问次数 -->
 <h2 align="center">👋Thank You For Your Visit</h2>
 <div align="center">
-<img src="https://profile-counter.deno.dev/YuZhangWang/count.svg">
+<img src="https://raw.githubusercontent.com/YuZhangWang/YuZhangWang/master/images/visitor-badge.svg" alt="Visitor Count">
 </div>
 </br>
 
@@ -40,19 +40,19 @@
         <!-- Github状态 -->
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="YuZhangWang's Github stats" />
+            <img height=259 src="https://raw.githubusercontent.com/YuZhangWang/YuZhangWang/master/images/github-stats-light.svg" alt="YuZhangWang's Github stats" />
             </a>
             <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="YuZhangWang's Github stats" />
+            <img height=259 src="https://raw.githubusercontent.com/YuZhangWang/YuZhangWang/master/images/github-stats-dark.svg" alt="YuZhangWang's Github stats" />
             </a>
         </td>
         <!-- Github仓库内编程语言使用情况统计 -->
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="YuZhangWang's Language stats" />
+            <img height=259 src="https://raw.githubusercontent.com/YuZhangWang/YuZhangWang/master/images/github-langs-light.svg" alt="YuZhangWang's Language stats" />
             </a>
             <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="YuZhangWang's Language stats" />
+            <img height=259 src="https://raw.githubusercontent.com/YuZhangWang/YuZhangWang/master/images/github-langs-dark.svg" alt="YuZhangWang's Language stats" />
             </a>
         </td>
     </tr>
@@ -64,45 +64,12 @@
 
 <!-- 常用的编程语言和常用的编程框架和IDE工具 -->
 <div align="center">
-<table>
-<tr>
-<td>
-:basecamp: Languages
-</td>
-<td>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011149.png" alt="Python" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="CPP" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="Latex" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="Html" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" /></code>
-</td>
-</tr>
-    
-<tr>
-<td>
-:fishsticks: Tools
-</td>
-<td>
-<code><img height="20" src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/pycharm.svg" alt="Pycharm" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="Pytorch" /></code>   
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="Opencv"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask"></code>
-<code><img height="20" src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/clion.svg" alt="Clion"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual-Studio-Code" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" alt="openSUSE" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" alt="Firefox" /></code>
-</td>
-</tr>
-</table>
+<p><strong>Languages</strong><br>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011149.png" alt="Python" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="CPP" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="Latex" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="Html" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" /></code>
+</p>
+<p><strong>Tools</strong><br>
+<code><img height="20" src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/pycharm.svg" alt="Pycharm" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="Pytorch" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="Opencv"></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django"></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask"></code> <code><img height="20" src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/clion.svg" alt="Clion"/></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake"/></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js"/></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual-Studio-Code" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" alt="openSUSE" /></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" alt="Firefox" /></code>
+</p>
 </div>
 
 <!-- 关于我的一些信息 -->
@@ -115,51 +82,22 @@
 > - RSS订阅[https://yuzhang.wang/rss2.xml](https://yuzhang.wang/rss2.xml)   
 
 
-<table width="100%" align="center" padding="0" margin="0">
-<tr>
-<td valign="top" width="50%">
-:mortar_board:  <a href="https://yuzhang.wang" target="_blank">Recent Blog</a> 
-  
-<!-- START_SECTION:blog -->
+## :books: <a href="https://yuzhang.wang" target="_blank">Recent Blog</a>
+
 | Date | Title |
 | :-: | :---: |
-| 2023-09-28 | <a href='https://yuzhang.wang/134-depression-mitochondrial-energy-metabolism-01/' target='_blank'>抑郁症与线粒体能量代谢-Section01</a> |
-| 2023-09-14 | <a href='https://yuzhang.wang/142-note-tag/' target='_blank'>Butterfly中Note标签使用方法</a> |
-| 2023-09-13 | <a href='https://yuzhang.wang/139-invoice-identification/' target='_blank'>增值税发票自动识别</a> |
-| 2023-09-06 | <a href='https://yuzhang.wang/138-prohibited-drugs/' target='_blank'>关于麻醉药及违禁药在抑郁症快速起效领域应用情况的调查研究</a> |
-| 2023-08-29 | <a href='https://yuzhang.wang/137-etiopathogenesis/' target='_blank'>关于抑郁症可能的发病机制调查研究</a> |
-| 2023-08-28 | <a href='https://yuzhang.wang/136-rapid-treatment-depression/' target='_blank'>关于快速抗抑郁的药物研究进展</a> |
-| 2023-06-07 | <a href='https://yuzhang.wang/133-best-template/' target='_blank'>你应该为自己创建一个Github仓库模板</a> |
-| 2023-06-06 | <a href='https://yuzhang.wang/132-github-introduction/' target='_blank'>如何拥有一个Awesome的Github介绍页面</a> |
-| 2023-06-05 | <a href='https://yuzhang.wang/131-remote-friend-linking/' target='_blank'>Butterfly主题中远程友链实操</a> |
-| 2023-06-04 | <a href='https://yuzhang.wang/130-domain-name-issue/' target='_blank'>域名的小问题导致网站关闭了很久</a> |
-<!-- END_SECTION:blog -->
-</td>
-    
-<td valign="top" width="50%"> 
-:tada:  <a href="https://yuzhang.wang" target="_blank">Funny Soul</a> 
-    
-<!-- START_SECTION:douban -->
-| Date | Title |
-| :-: | :---: |
-| 2024-02-15 | 想看🤔 <a href='https://movie.douban.com/subject/35494829/' target='_blank'>红毯先生</a>  |
-| 2024-02-15 | 看过😎 <a href='https://movie.douban.com/subject/35725869/' target='_blank'>年会不能停！</a> ⭐⭐⭐⭐⭐ |
-| 2024-02-15 | 想看🤔 <a href='https://movie.douban.com/subject/36369452/' target='_blank'>飞驰人生2</a>  |
-| 2023-11-30 | 看过😎 <a href='https://movie.douban.com/subject/35904144/' target='_blank'>银河英雄传说 Die Neue These 策谋 第2章</a> ⭐⭐⭐⭐⭐ |
-| 2023-11-30 | 看过😎 <a href='https://movie.douban.com/subject/33456512/' target='_blank'>涉过愤怒的海</a> ⭐⭐⭐ |
-| 2023-11-13 | 想看🤔 <a href='https://movie.douban.com/subject/36140095/' target='_blank'>新闻女王</a>  |
-| 2023-11-12 | 看过😎 <a href='https://movie.douban.com/subject/36283000/' target='_blank'>进击的巨人 最终季 完结篇 后篇</a> ⭐⭐⭐⭐⭐ |
-| 2023-11-06 | 在看👀 <a href='https://movie.douban.com/subject/34905779/' target='_blank'>问心</a>  |
-| 2023-11-06 | 在看👀 <a href='https://movie.douban.com/subject/35059344/' target='_blank'>鸡皮疙瘩(剧版) 第一季</a>  |
-| 2023-11-06 | 在看👀 <a href='https://movie.douban.com/subject/35932858/' target='_blank'>拾荒者统治</a> ⭐⭐⭐⭐⭐ |
-<!-- END_SECTION:douban -->
-</td>
-</tr>
-    
-<!-- START_SECTION:github-xxx -->
-<!-- END_SECTION:github-xxx -->
-    
-</table>
+<!-- BLOG-POST-LIST:START -->
+| 2025-11-28 | [教资复习-教育法律法规笔记](https://yuzhang.wang/158-education-laws-regulations/) |
+| 2025-11-14 | [教资复习-教师职业道德笔记](https://yuzhang.wang/157-teacher-professional-ethics/) |
+| 2025-10-17 | [联邦学习中的统计异质性建模与优化理论](https://yuzhang.wang/156-statistical-heterogeneity-modeling/) |
+| 2025-10-16 | [联邦学习范式下的隐私伦理与数据所有权哲学研究](https://yuzhang.wang/155-privacy-ethics-data-ownership/) |
+| 2025-10-15 | [单循环联邦演员—评论家方法](https://yuzhang.wang/154-critic-method/) |
+| 2025-10-15 | [面向资源受限场景的 FedFreeze 框架](https://yuzhang.wang/153-fedFreeze-framework/) |
+| 2025-10-15 | [大模型时代的高效云-边协同推理框架](https://yuzhang.wang/152-edge-collaborative-reasoning-framework/) |
+| 2025-10-15 | [选择性对比解码的边-云协同动态推理](https://yuzhang.wang/151-selective-contrast-decoding-edges/) |
+| 2025-10-15 | [跨机构联邦风控平台：架构、方法与实践](https://yuzhang.wang/150-federal-risk-control-platform/) |
+| 2025-10-15 | [人体微生态与宿主的交互调控机制：从共生稳态到精准干预](https://yuzhang.wang/149-human-microbiome-host-interaction/) |
+<!-- BLOG-POST-LIST:END -->
 
 
 <!-- 各种平台联系方式 -->

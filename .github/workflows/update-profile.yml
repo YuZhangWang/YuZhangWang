@@ -23,7 +23,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Refresh README and local SVG snapshots
+      - name: Refresh local SVG snapshots
         run: python3 scripts/update-profile.py
 
       - name: Commit changes
@@ -31,9 +31,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md images
+          git add images
           if ! git diff --cached --quiet; then
-            git commit -m "Update profile README and stats snapshots"
+            git commit -m "Update profile snapshots"
             git push
           else
             echo "No changes to commit"
